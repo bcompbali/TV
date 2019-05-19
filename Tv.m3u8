@@ -1,1142 +1,353 @@
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO SPORT", (ONLINE) FOX SPORTS 2 HD
-http://123.29.128.167/v5live.m3u8?c=vstv462&q=sd&deviceType=7&userId=22387&deviceId=&type=tv&rkey=03270314ct9MR9Y6&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=HCM&rbk=20316270139&pnode=172.16.52.133&isp=vn
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO SPORT", (ONLINE) FOX SPORTS 2 SD
-http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO SPORT", (ONLINE) FOX SPORTS 3 SD
-http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO SPORT", (ONLINE) SETANTA HD
-http://ott-cdn.ucom.am/s81/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", ASTRO HELLO
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", ASTRO VAANAVIL
-http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", ASTRO AWANI
-http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", Channel NewsAsia
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", OKTO
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", Saluran Berita RTM
-http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/media-udhb3nkl6_b1096000_10191.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", TVIKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", BBTV CH7 HD
-http://103.246.16.248:9981/stream/channelid/422263852
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", PPTV HD
-http://103.246.16.248:9981/stream/channelid/2122275590
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", THAIRATH HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="ASEAN♥IPTV", MCOT HD
-http://103.246.16.248:9981/stream/channelid/1282912562
-
-#EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="SPORTS", (ONLINE) SENTANA SPORT+
-http://ott-cdn.ucom.am/s82/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", (ONLINE) ELEVEN SPORT
-http://cdn7.woideas.com/tv11.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS", (ONLINE) CCTV 5+ HD
-http://cdn10.uhd4khdr.com/5jia.m3u8
-
-#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) ABU DHABI SPORT
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-
-#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) ABU DHABI SPORT 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-
-#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-
-#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-
-#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-
-#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="SPORTS", (ONLINE) Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", (ONLINE) MNC Sport
-https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="SPORTS", (DOUBTFUL) SUPER SOCCER TV
-http://210.210.155.35/uq2663/h/h20/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (ONLINE) MU TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/118.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (ONLINE) Tom & Jerry HD
-http://1290922571.rsc.cdn77.org/movies/Tom-and-Jerry-2005.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (ONLINE) BIGBUCKBUNNY
-http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (DOUBTFUL) SPACETOON
-http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (ONLINE) AniPlus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (ONLINE) MIAO MI
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (ONLINE) GONGMAX TV
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (ONLINE) KIDS JR
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (ONLINE) DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥IPTV", (DOUBTFUL) ANIPLUS
-http://45.126.83.51/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION", FASHION PARIS
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION", FASHION TV MIDNITE
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION", FASHION & LIFESTYLE
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION", FASHION TOP MODEL
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION", FASHION DESTINATION
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION", FASHION RUNWAY
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION", FASHION MIDNIGHT
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE♥FASHION", JASMIN TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="DOCUMENTER", History
-http://indon.dnsq.us:9981/stream/channelid/855888891?ticket=A9C4D071873E66DF9A59C7F5C6B92C6F3592978A&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DOCUMENTER", ID
-http://80.80.160.168/live/5/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DOCUMENTER", PLANET GREEN
-http://80.80.160.168/live/4/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DOCUMENTER", TRAVEL
-http://80.80.160.168/live/3/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/TLC.jpg" group-title="DOCUMENTER", TLC
-http://80.80.160.168/live/2/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="DOCUMENTER", INVESTIGATION DISCOVERY
-http://80.80.160.168/live/1/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="DOCUMENTER", DISCOVERY CH. HD
-http://indon.dnsq.us:9981/stream/channelid/1962401141?ticket=6FAC653315849ACAC605404031817CF1B8C303E8&profile=pass
-
-#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Discovery-Science-On-Demand.jpg" group-title="DOCUMENTER", DISCOVERY SCIENCE HD
-http://80.80.160.168/live/9/2500000/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Discovery-Science-On-Demand.jpg" group-title="DOCUMENTER", SCI
-http://80.80.160.168/live/9/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) KBS 2
-http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) SONY ONE ID
-http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) SONY CHANNEL ID
-http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (DOUBTFUL) ENTERTAINMENT ID
-http://45.126.83.51/uq2663/h/h10/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) ARIRANG
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (DOUBTFUL) SBS
-http://210.210.155.35/qwr9ew/s/s42/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) EBS English
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) EBS Plus 1
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) K-Drama
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) CCM
-http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (DOUBTFUL) CGTN DOCUMENTARY
-http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA♥IPTV", (ONLINE) Korea TV
-http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="KOREA AN", (DOUBTFUL) Sony One
-http://bit.ly/2Orhp3s
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="KOREA AN", (DOUBTFUL) Sony Channel
-http://bit.ly/2CEUGfI
-
-#EXTINF:-1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA AN", (DOUBTFUL) K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="KOREA AN", (ONLINE) K-Drama
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="KOREA AN", (ONLINE) TVN KR
-http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
-
-#EXTINF:-1 tvg-logo="http://http://home.goodtv.co.kr/images/main/logo_goodtv.png" group-title="KOREA AN", (ONLINE) GOODTV
-http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="KOREA AN", (ONLINE) TV-CHOSUN
-http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA AN", (ONLINE) EBS Plus 2
-http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fbCtp65.png" group-title="MALAYSIA", (ONLINE) UPDATE CODE ZAL TV ON INSTAGRAM : @hendra.murdani
-http://wodpro24.tr4545.in:8080/expred/peru8k.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QXBItqB.png" group-title="MALAYSIA", (ONLINE) ASTRO QUAN JIA HD MY
-http://185.132.176.172:8278/quanjia_hero/playlist.m3u8?tid=m02000000000013947229&ct=17981&tsum=722357aca25fe89a557ffae8065f9184
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yM8gZbD.png" group-title="MALAYSIA", (ONLINE) ASTRO XI YUE HD MY
-http://50.7.161.82:8278/Xiyue/playlist.m3u8?tid=m02000000000017759820&ct=17981&tsum=53c29b0be7c64f104ae681714706c51a
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4MB9LlX.png" group-title="MALAYSIA", (ONLINE) BERNAMA TV MY (BACKUP)
-http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000012087578&ct=17975&tsum=73be977f4f0798142ff736e6f09da82d
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XVUWF4o.png" group-title="MALAYSIA", (ONLINE) ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES - SERIES", (ONLINE) HBO FAMILY HD ID
-http://203.153.218.26:9981/stream/channelid/960201661?ticket=AE757FA4C75E7F3F3114A56A26167E926E31DD59&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PBFOi4c.png" group-title="MOVIES - SERIES", (ONLINE) FOX LIFE HD ID
-http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QYWGJBC.png" group-title="MOVIES - SERIES", (DOUBTFUL) MY CINEMA ID
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/98T28O9.png" group-title="MOVIES - SERIES", (DOUBTFUL) BLUE ANT EXTREME ID
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES - SERIES", (DOUBTFUL) BLUE ANT ENTERTAINMENT ID
-http://45.126.83.51/dr9445/h/h16/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WK4vdi.png" group-title="MOVIES - SERIES", (DOUBTFUL) DIVA ID
-http://rr.dens.tv/h/h11/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClSwlqI.png" group-title="MOVIES - SERIES", (DOUBTFUL) CINEMA WORLD ID
-http://rr.dens.tv/h/h04/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/By4vh9G.png" group-title="MOVIES - SERIES", (DOUBTFUL) SONY CHANNEL ID
-http://rr.dens.tv/h/h142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EXhCprS.png" group-title="MOVIES - SERIES", (DOUBTFUL) CELESTIAL MOVIES ID
-http://rr2.dens.tv/s/s33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E7sygNm.png" group-title="MOVIES - SERIES", (DOUBTFUL) AXN ID
-http://rr.dens.tv/h/h141/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lQ8l50l.png" group-title="MOVIES - SERIES", (DOUBTFUL) SONY ONE ID
-http://210.210.155.35/uq2663/h/h143/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lQ8l50l.png" group-title="MOVIES - SERIES", (DOUBTFUL) SONY ONE ID (BACKUP)
-http://rr.dens.tv/h/h143/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES - SERIES", (DOUBTFUL) HITS ID
-http://rr.dens.tv/h/h37/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6XAVVwI.png" group-title="MOVIES - SERIES", (DOUBTFUL) K+ ID
-http://rr.dens.tv/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jFbo1l8.png" group-title="MOVIES - SERIES", (DOUBTFUL) ZEE BIOSKOP ID
-http://rr2.dens.tv/s/s32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlOHhWl.png" group-title="MOVIES - SERIES", (DOUBTFUL) THRILL ID
-http://rr2.dens.tv/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vsa0rWm.png" group-title="MOVIES - SERIES", (DOUBTFUL) KIX ID
-http://rr.dens.tv/h/h07/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES - SERIES", (DOUBTFUL) SINEMA INDONESIA
-http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES - SERIES", (DOUBTFUL) K DRAMA
-http://rr2.dens.tv/s/s42/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES - SERIES", (ONLINE) STAR CHINESE
-http://iliketot.dyndns.tv:80/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES - SERIES", (ONLINE) STAR CHINESE LEGEND
-http://iliketot.dyndns.tv:80/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1NzowOSBBTSZoYXNoX3ZhbHVlPXdtOTREeDJORTFpZDRYbjBnRHZrT0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMXx1cGxheXwxNTI4MjUzODI5fDIwMi4yOC40MS4xNDQ=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rGvQhQZ.png" group-title="MOVIES - SERIES", (ONLINE) RAI MOVIE HD ITA
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UMYCo8x.png" group-title="MOVIES - SERIES", (ONLINE) WAU HD RUS
-http://nn2.joj.sk/hls/wau-540.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zSnFmif.png" group-title="MOVIES - SERIES", (DOUBTFUL) B CINEMA RUS
-http://84.43.207.130/btvcinema/btvcinema.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUmiY0Z.png" group-title="MOVIES - SERIES", (ONLINE) MOVIES 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUmiY0Z.png" group-title="MOVIES - SERIES", (ONLINE) MOVIES 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUmiY0Z.png" group-title="MOVIES - SERIES", (ONLINE) MOVIES 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUmiY0Z.png" group-title="MOVIES - SERIES", (ONLINE) MOVIES 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUmiY0Z.png" group-title="MOVIES - SERIES", (ONLINE) MOVIES 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUmiY0Z.png" group-title="MOVIES - SERIES", (ONLINE) MOVIES 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) MTV ASIA HD
-http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) MTV CHINA HD
-http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) CHANEL V
-http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) MiX Music HD
-http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) DANGDUTZ
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) TMusic
-http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) KRAL WORLDTV
-http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b814000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) RETRO TV
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ5WSFLL/M2.png" group-title="MUSIC♥IPTV", (ONLINE) 1 MUSIC
-http://92.249.129.152/stream/1music.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", KITANESIA
-http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", MALEO
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", BMW TV
-http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", AREK TV SURABAYA
-http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", UATV
-http://stream1.ninmedia.tv/uatv/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", TV DESA
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", GEMILANG TV
-http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", BARAYA TV
-http://stream1.ninmedia.tv/barayatv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", RCTV
-http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", JAMBI TV
-http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", PAL TV
-http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", PON TV
-http://stream1.ninmedia.tv/pontv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", OSHOP
-http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", BE TV
-http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", MI TV
-http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", TRIBRATA TV
-http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", POP MUSIK
-http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥IPTV", MK TV
-http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", HBO FAMILY
-http://indon.dnsq.us:9981/stream/channelid/960201661?ticket=5A8F84C083F08E3423DB5BFD421FC31B2B4C6C8B&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", CINEMAX HD
-http://indon.dnsq.us:9981/stream/channelid/51542457?ticket=20E2DD52EEF03F77A1B6EAD367F99EA8B694179A&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", NAT GEO WILD
-http://indon.dnsq.us:9981/stream/channelid/1461154413?ticket=B73163DBDA7DFC41704CB28C7AEC7BF1891E8DBB&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", NAT GEO PEOPLE
-http://indon.dnsq.us:9981/stream/channelid/707541297?ticket=FB568AEE1E60F53D02D022E97854DE133B474463&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", NAT GEO
-http://indon.dnsq.us:9981/stream/channelid/1159590602?ticket=4A6165CC210A4B454B34A30DBE5629FEBF23A68B&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", FOX Sports
-http://indon.dnsq.us:9981/stream/channelid/910032788?ticket=66794FAEC2CC29D1B757C2B0A7DAC182119F1425&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", Disney Junior
-http://indon.dnsq.us:9981/stream/channelid/63007783?ticket=E31AF3DCCEA33973A6013E097CB27C6323572809&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", SBS HD
-http://49.176.184.179:9981/stream/channelid/1751125148?profile=michael
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", SBS VICELAND
-http://49.176.184.179:9981/stream/channelid/1449265119?profile=michael
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", NAT GEO WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", NAT GEO
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", NAT GEO PEOPLE
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", DISCOVERY HD
-http://80.80.160.168/live/8/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", Showtime
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", STAR WORLD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", MBC1 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", MBC2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", MBC3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="ENTERT♥IPTV", MBC4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SINGAPURA", BTV NEWS
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SINGAPURA", OKTO
-http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/grNKxDP.jpg" group-title="SPORTS", (DOUBTFUL) SUPER SOCCER HD ID
-http://rr.dens.tv/h/h20/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) MNC SPORTS
-http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) EGG NETWORK HD ID
-http://rr.dens.tv/h/h22/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nemV0Zl.png" group-title="SPORTS", (ONLINE) ABU DHABI SPORTS 2 UAE
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k25uwE8.png" group-title="SPORTS", (ONLINE) ABU DHABI SPORTS 4 UAE
-http://adtv.ercdn.net/adsportextra/adsportextra_480p.m3u8?v=2590751696
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WayudGQ.png" group-title="SPORTS", (ONLINE) DUBAI RACING UAE
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/km7OLyO.png" group-title="SPORTS", (ONLINE) ORANGE SPORT
-http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNXc0rt.png" group-title="SPORTS", (ONLINE) REAL MADRID TV ESP
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VINOtWD.png" group-title="SPORTS", (ONLINE) ESPN HD USA
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AsYprAT.png" group-title="SPORTS", (DOUBTFUL) FIGHT SPORTS USA
-http://rr.dens.tv/h/h05/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYgrOgj.jpg" group-title="SPORTS", (ONLINE) FIGHT TIME USA
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fbCtp65.png" group-title="SPORTS", (ONLINE) SPORTS HOLE US
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUmiY0Z.png" group-title="SPORTS", (ONLINE) ALL SPORTS LTN
-http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
-
-#EXTINF:-1,TV ONE 2
-http://157.119.56.249:2019/live/gratis/diemdiemaja/12.ts
-
-#EXTINF:-1,TRANS TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/11.ts
-
-#EXTINF:-1,TRANS 7 HD
-http://157.119.56.249:2019/live/gratis/diemdiemaja/10.ts
-
-#EXTINF:-1,SCTV 2
-http://157.119.56.249:2019/live/gratis/diemdiemaja/13.ts
-
-#EXTINF:-1,RCTI 1
-http://157.119.56.249:2019/live/gratis/diemdiemaja/7.ts
-
-#EXTINF:-1,RAJAWALI TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/8.ts
-
-#EXTINF:-1,MNCTV 2
-http://157.119.56.249:2019/live/gratis/diemdiemaja/6.ts
-
-#EXTINF:-1,METRO TV HD
-http://157.119.56.249:2019/live/gratis/diemdiemaja/1.ts
-
-#EXTINF:-1,KOMPAS TV 1
-http://157.119.56.249:2019/live/gratis/diemdiemaja/15.ts
-
-#EXTINF:-1,INDOSIAR 1
-http://157.119.56.249:2019/live/gratis/diemdiemaja/5.ts
-
-#EXTINF:-1,GLOBAL TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/4.ts
-
-#EXTINF:-1,CNN INDONESIA
-http://157.119.56.249:2019/live/gratis/diemdiemaja/14.ts
-
-#EXTINF:-1,FOODIE
-http://157.119.56.249:2019/live/gratis/diemdiemaja/25.ts
-
-#EXTINF:-1,TVRI
-http://157.119.56.249:2019/live/gratis/diemdiemaja/138.ts
-
-#EXTINF:-1,Berita Satu
-http://157.119.56.249:2019/live/gratis/diemdiemaja/140.ts
-
-#EXTINF:-1,Jak TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/141.ts
-
-#EXTINF:-1,Inews TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/142.ts
-
-#EXTINF:-1,ANTV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/143.ts
-
-#EXTINF:-1,JGo
-http://157.119.56.249:2019/live/gratis/diemdiemaja/84.ts
-
-#EXTINF:-1,Travel Channel
-http://157.119.56.249:2019/live/gratis/diemdiemaja/126.ts
-
-#EXTINF:-1,MALEO
-http://157.119.56.249:2019/live/gratis/diemdiemaja/145.ts
-
-#EXTINF:-1,INSPIRA TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/146.ts
-
-#EXTINF:-1,BMW TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/148.ts
-
-#EXTINF:-1,TABALONG TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/149.ts
-
-#EXTINF:-1,AREK TV SURABAYA
-http://157.119.56.249:2019/live/gratis/diemdiemaja/150.ts
-
-#EXTINF:-1,RUMAH TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/151.ts
-
-#EXTINF:-1,UATV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/152.ts
-
-#EXTINF:-1,TV DESA
-http://157.119.56.249:2019/live/gratis/diemdiemaja/153.ts
-
-#EXTINF:-1,GEMILANG TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/154.ts
-
-#EXTINF:-1,BARAYA TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/156.ts
-
-#EXTINF:-1,RCTV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/157.ts
-
-#EXTINF:-1,PAL TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/160.ts
-
-#EXTINF:-1,PON TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/161.ts
-
-#EXTINF:-1,OSHOP
-http://157.119.56.249:2019/live/gratis/diemdiemaja/162.ts
-
-#EXTINF:-1,NABAWI TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/163.ts
-
-#EXTINF:-1,BE TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/164.ts
-
-#EXTINF:-1,RB TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/165.ts
-
-#EXTINF:-1,DMI TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/166.ts
-
-#EXTINF:-1,SALINGSAPA
-http://157.119.56.249:2019/live/gratis/diemdiemaja/167.ts
-
-#EXTINF:-1,NU CHANNEL
-http://157.119.56.249:2019/live/gratis/diemdiemaja/168.ts
-
-#EXTINF:-1,PRAJA TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/169.ts
-
-#EXTINF:-1,RRI NET
-http://157.119.56.249:2019/live/gratis/diemdiemaja/170.ts
-
-#EXTINF:-1,GPR TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/171.ts
-
-#EXTINF:-1,MI TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/172.ts
-
-#EXTINF:-1,TRIBRATA TV
-http://157.119.56.249:2019/live/gratis/diemdiemaja/173.ts
-
-#EXTINF:-1,POP MUSIK
-http://157.119.56.249:2019/live/gratis/diemdiemaja/174.ts
-
-#EXTINF:-1,NET. TV
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,TRANSTV
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,TRANS7
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,MNC
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-
-#EXTINF:-1,GLOBAL TV
-http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,METROTV
-http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,TV ONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,RTV
-http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
-
-#EXTINF:-1,JTV
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,iNEWS HD
-http://edge.okezone.com/live/inewsokezone.com.m3u8
-
-#EXTINF:-1,KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
-
-#EXTINF:-1,SINDO TV
-http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,CNN
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#EXTINF:-1,BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-
-#EXTINF:-1,BERITA SATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-
-#EXTINF:-1,JAKARTA GLOBE NEWS CHANNEL
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1,RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-
-#EXTINF:-1,SKY NEW
-http://julianlennon.com/wp-content/uploads/2014/12/large-square-sky-news-logo.png"
-
-#EXTINF:-1,TVRI NASIONAL
-http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
-
-#EXTINF:-1,TVRI 3 BUDAYA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#EXTINF:-1,DAAI TV
-http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
-
-#EXTINF:-1,BAYU TV
-http://wms.klikhost.com/bayutv/live/playlist.m3u8
-
-#EXTINF:-1,TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1,INTV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-
-#EXTINF:-1,BMS TV
-http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-
-#EXTINF:-1,ADI TV YOGYAKARTA
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-
-#EXTINF:-1,TATV SOLO
-http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-
-#EXTINF:-1,BBS TV SURABAYA
-http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-
-#EXTINF:-1,BALI TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,TV IKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-
-#EXTINF:-1,ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-#EXTINF:-1,SBS IN
-http://rr.dens.tv/h/h28/index1.m3u8
-
-#EXTINF:-1,CELESTIAL MOVIE
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-
-#EXTINF:-1,THRILL
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1,ZEE BIOSKOP
-http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
-
-#EXTINF:-1,FOODIE
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-
-#EXTINF:-1,HOME&LIVING
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-
-#EXTINF:-1,INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-
-#EXTINF:-1,ASWAJA TV
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-
-#EXTINF:-1,SURAU TV
-http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
-
-#EXTINF:-1,NADA MUSLIM TV
-http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-
-#EXTINF:-1,Reformed21 HD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-
-#EXTINF:-1,CGTN
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1,JAKTV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
-
-#EXTINF:-1,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1,TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-
-#EXTINF:-1,K+
-http://210.210.155.35/uq2663/h/h08/index1.m3u8
-
-#EXTINF:-1,SBS in
-http://210.210.155.35/uq2663/h/h28/index1.m3u8
-
-#EXTINF:-1,SONY One
-http://210.210.155.35/uq2663/h/h13/index1.m3u8
-
-#EXTINF:-1,RODJA
-http://rr2.dens.tv/s/s14/index1.m3u8
-
-#EXTINF:-1,HBO Hits
-http://203.153.218.26:9981/stream/channelid/1742170657?ticket=B84B1E44E14A7F1DF24E5554B7EDFA7010DAE540&profile=pass
-
-#EXTINF:-1,HBO Family
-http://203.153.218.26:9981/stream/channelid/960201661?ticket=EF097F66FBB2B38F7498F1DA2B609CEBB1C65DA9&profile=pass
-
-#EXTINF:-1,FOX Family Movies
-http://203.153.218.26:9981/stream/channelid/750664492?ticket=A3D34C2F4D75F25D2022471799701CD0FF7950A4&profile=pass
-
-#EXTINF:-1,Blue Ant EXTREME
-http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1,THRILL (link 2)
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png" tvg-id="b45a655c749810baf6d4c29a3f55f172",Cartoon Network
-http://203.153.218.26:9981/stream/channelid/1550146228?ticket=AF3DCDE080523FF64BD91861C68599813879BB0F&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/disney_channel_global.png" tvg-id="3766117da69ce90f5cb3f0ea09df5f80",Disney Channel
-http://203.153.218.26:9981/stream/channelid/2098292279?ticket=B3C087D794ADB9CB0D7B89414C84A32DC5889AF5&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_us.png" tvg-id="caf21dc58bc94e97a7f5db16c098d274",National Geographic
-http://203.153.218.26:9981/stream/channelid/1159590602?ticket=E89ECEBB08187E7830CEE02569772C593D07B88C&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" tvg-id="6d7217574bc1970e8b152657fb354b7b",NAT GEO Wild
-http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf",NAT GEO People
-http://203.153.218.26:9981/stream/channelid/707541297?ticket=B43B8ED27A5A69A2EDEF706DB73C2A8BDDD5095B&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_hits.png" tvg-id="216ad7670aeac0b23e11fdbc13200c7f",HBO Hits
-http://203.153.218.26:9981/stream/channelid/1742170657?ticket=6DCC7FF603E6D3D22A5F7CB12B44E950CE1D222D&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_family_asia.png" tvg-id="bd833b39257c35def3eff69f74d1d7e2",HBO Family
-http://203.153.218.26:9981/stream/channelid/960201661?ticket=75E706237FA41F9E520BA0F00FC5F580D3339AB0&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/blue-ant-extreme-ca.png" tvg-id="b57c2f8768bcfdba104c35a8dd8b6639",Blue Ant Extreme
-http://203.153.218.26:9981/stream/channelid/120552629?ticket=CE7832FF190AF0482563D9348D29426C87170A65&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b",FOX Family Movies
-http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_action.png" tvg-id="21252d69f4203ee24552bb350a0b4880",FOX Action Movies
-http://203.153.218.26:9981/stream/channelid/1764566305?ticket=B2CA17472AD2DCA7D982B2D2C0E59FA9EA408411&profile=pass
-
-#EXTINF:-1,24/7 Kuroko’s Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,24/7 Hollywood Movies 4
-http://ws4.streamhls.huya.com:80/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8
-
-#EXTINF:-1,24/7 Hollywood Movies 8
-https://zk.wb699.com/2019/03/17/zzEeMZblmLcJsaVX/playlist.m3u8
-
-#EXTINF:-1,BLUE ANT EXTRIME
-http://bit.do/Blueantextreame
-
-#EXTINF:-1,TVRI Nasional
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
-
-#EXTINF:-1,MTV South East Asia
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1,FOX COMEDY
-http://161.0.157.7/PLTV/88888888/224/3221226800/index.m3u8
-
-#EXTINF:-1,Net Tv
-http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1,ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,FOX Movies Premium
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,TV One
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-
-#EXTINF:-1,CCTV 4
-http://210.210.155.35/qwr9ew/s/s19/02.m3u8
-
-#EXTINF:-1,My Kids
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-
-#EXTINF:-1,MY KIDS HD
-http://bit.do/Mykids
-
-#EXTINF:-1,Animal Planet South East Asia
-http://80.80.160.168/live/1/500000/live.m3u8
-
-#EXTINF:-1,Celestial Movies SE Asia
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1,Star World Asia
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
-
-#EXTINF:-1,Toonami
-http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
-
-#EXTINF:-1,Cartoon Network Asia
-http://161.0.157.8/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1,Life Inspired
-https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1,Diva Universal Asia
-http://210.210.155.35/uq2663/h/h11/index.m3u8
-
-#EXTINF:-1,CINEMA WORLD
-http://45.126.83.51/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1,Star China Movie
-http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-
-#EXTINF:-1,CELESTIAL MOVIES
-http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
-
-#EXTINF:-1,Star China
-http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-
-#EXTINF:-1,ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/index1.m3u8
-
-#EXTINF:-1,THRILL
-http://rr2.dens.tv/s/s34/index1.m3u8
-
-#EXTINF:-1,CNN
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1,CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:-1,BLOOMBERG
-http://45.126.83.51/uq2663/h/h03/index2.m3u8
-
-#EXTINF:-1,CHANNEL NEWS ASIA
-http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
-
-#EXTINF:-1,AL JAZEERA
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1,DW
-http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
-
-#EXTINF:-1,EURONEW
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-
-#EXTINF:-1,RUSIA TODAY
-http://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
-
-#EXTINF:-1,NAT GEO CHANNEL
-http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDE4IDY6NTY6MTkgUE0maGFzaF92YWx1ZT1pV21sdUNEVXZpZ3I1bitwSEUrRDhBPT0mdmFsaWRtaW51dGVzPTImaWQ9Q2hveXw4MDN8aXB0dmhlcm98MTUyOTk1Mjk3OXwxMTkuNzYuMTUyLjM=
-
-#EXTINF:-1,NAT GEO WILD
-http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-
-#EXTINF:-1,NAT GEO PEOPLE
-http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxMjo0MiBBTSZoYXNoX3ZhbHVlPWV2blpob000aWtYYmtRZCtSNWl4WWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgwNHx1cGxheXwxNTI4MjU0NzYyfDIwMi4yOC40MS4xNDQ=
-
-#EXTINF:-1,KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-
-#EXTINF:-1,SONY
-http://210.210.155.35/uq2663/h/h142/01.m3u8
-
-#EXTINF:-1,Comedy Central
-http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6MjI6NDUgUE0maGFzaF92YWx1ZT1Td1N0UmtaQjkvanQrL2Z4ekZUYkxBPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkxOHx1cGxheXwxNTMyMzUyMTY1fDExMC4xNjkuMTI4LjE3MA==
-
-#EXTINF:-1,CCTV4
-http://210.210.155.35/session/54f1bc0e-7b7a-11e8-a6e4-b82a72d63267/qwr9ew/s/s19/01.m3u8
-
-#EXTINF:-1,CGTN DOCUMENTARY
-http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
-
-#EXTINF:-1,TV5 MONDE
-http://ott-cdn.ucom.am/s75/index.m3u8
-
-#EXTINF:-1,ABC AUSTRALIA
-http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,SUPER SOCCER
-http://210.210.155.35/uq2663/h/h20/index.m3u8
-
-#EXTINF:-1,GO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:-1,KHAZANAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:-1,T MUSIC
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-
-#EXTINF:1,NAT GEO PEOPLE HD
-http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-#EXTINF:-1,FASHION TV
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1,DW TV
-http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
-
-#EXTINF:-1,EURONEWS
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
-
-#EXTINF:-1,RT
-http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
-
-#EXTINF:-1,TVE
-http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
-
-#EXTINF:-1,ZEE BISOKOP
-http://210.210.155.35/session/dd44cb1a-3b40-11e9-a903-92a2ae097d68/qwr9ew/s/s32/index1.m3u8
-
-#EXTINF:-1,E
-http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
-
-#EXTINF:-1,PHOENIX
-http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
-
-#EXTINF:-1,FYI
-http://iliketot.dyndns.tv/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxNjoyMyBBTSZoYXNoX3ZhbHVlPVdWdiswUjAwUC9SWnpINWtGUmNBZFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgxM3x1cGxheXwxNTI4MjU0OTgzfDIwMi4yOC40MS4xNDQ=
-
-#EXTINF:-1,THE INDONESIA CHANEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-
-#EXTINF:-1,GLOBAL TV
-http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,NET TV HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-
-#EXTINF:-1,RTV
-http://rr2.dens.tv/s/s12/01.m3u8
-
-#EXTINF:-1,INEWS
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
-#EXTINF:-1,Kompas TV
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,ELSHINTA TV
-http://rr2.dens.tv/s/s10/01.m3u8
-
-#EXTINF:-1,HIDUP Tv
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-
-#EXTINF:-1,TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-
-#EXTINF:-1,DAAI TV
-http://rr2.dens.tv/s/s13/01.m3u8
-
-#EXTINF:-1,ALQURAN AL KARIM
-http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:-1,U CHANNEL
-http://stream.rs.co.th/you-hi/index.m3u8
-
-#EXTINF:-,PIJAR TV
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-
-#EXTINF:-1,SETANTA_SPORT
-http://ott-cdn.ucom.am/s81/04.m3u8
-
-#EXTINF:-1,Belarus_5_Sport
-http://95.46.208.76:9898/belarus5
-
-#EXTINF:-1,QazSport
-http://109.248.236.41:4433/udp/238.1.1.116:1234
-
-#EXTINF:-1,Superyatch_Tv
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
-
-#EXTINF:-1,Arhat_Sport_Tv
-http://arhat.tv/public/360p/index.m3u8
-
-#EXTINF:-1,DSport-India
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+	Channel Name	Status	URL
+1	 (ONLINE) FOX SPORTS 2 HD	Online	http://123.29.128.167/v5live.m3u8?c=vstv462&q=sd&deviceType=7&userId=22387&deviceId=&type=tv&rkey=03270314ct9MR9Y6&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=HCM&rbk=20316270139&pnode=172.16.52.133&isp=vn
+2	 (ONLINE) FOX SPORTS 2 SD	Online	http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+3	 (ONLINE) FOX SPORTS 3 SD	Online	http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+4	 (ONLINE) SETANTA HD	Online	http://ott-cdn.ucom.am/s81/03.m3u8
+5	 ASTRO HELLO	Online	http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+6	 ASTRO VAANAVIL	Online	http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+7	 ASTRO AWANI	Online	http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+8	 Channel 5	Online	https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+9	 Channel 8	Online	https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+10	 Channel U	Online	https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+11	 Channel NewsAsia	Online	http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+12	 OKTO	Online	https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+13	 Suria	Online	https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+14	 Vasantham	Online	https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+15	 Miao Mi	Online	https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+16	 Saluran Berita RTM	Online	http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/media-udhb3nkl6_b1096000_10191.m3u8
+17	 TVIKIM	Online	http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
+18	 BBTV CH7 HD	Online	http://103.246.16.248:9981/stream/channelid/422263852
+19	 PPTV HD	Online	http://103.246.16.248:9981/stream/channelid/2122275590
+20	 THAIRATH HD	Online	http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+21	 MCOT HD	Online	http://103.246.16.248:9981/stream/channelid/1282912562
+22	 (ONLINE) SENTANA SPORT+	Online	http://ott-cdn.ucom.am/s82/03.m3u8
+23	 (ONLINE) CCTV 5+ HD	Online	http://cdn10.uhd4khdr.com/5jia.m3u8
+24	 (ONLINE) ABU DHABI SPORT	Online	http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+25	 (ONLINE) ABU DHABI SPORT 2	Online	http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+26	 (ONLINE) Abu Dhabi Sports 3	Online	http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+27	 (ONLINE) Abu Dhabi Sports 4	Online	http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+28	 (ONLINE) Abu Dhabi Sports 5	Online	http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+29	 (ONLINE) Abu Dhabi Sports 6	Online	http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+30	 (ONLINE) MNC Sport	Online	https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+31	 (DOUBTFUL) SUPER SOCCER TV	Online	http://210.210.155.35/uq2663/h/h20/01.m3u8
+32	 (ONLINE) MU TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/118.ts
+33	 (ONLINE) Tom & Jerry HD	Online	http://1290922571.rsc.cdn77.org/movies/Tom-and-Jerry-2005.mp4/playlist.m3u8
+34	 (ONLINE) BIGBUCKBUNNY	Online	http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+35	 (DOUBTFUL) SPACETOON	Online	http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+36	 (ONLINE) AniPlus	Online	http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+37	 (ONLINE) MIAO MI	Online	https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+38	 (ONLINE) GONGMAX TV	Online	http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+39	 (ONLINE) KIDS JR	Online	http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+40	 (ONLINE) DISNEY JUNIOR	Online	http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+41	 (DOUBTFUL) ANIPLUS	Online	http://45.126.83.51/dr9445/h/h02/01.m3u8
+42	 FASHION PARIS	Online	http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+43	 FASHION TV MIDNITE	Online	http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+44	 FASHION & LIFESTYLE	Online	http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+45	 FASHION TOP MODEL	Online	http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+46	 FASHION DESTINATION	Online	http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+47	 FASHION RUNWAY	Online	http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+48	 FASHION MIDNIGHT	Online	http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+49	 JASMIN TV	Online	http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+50	 History	Online	http://indon.dnsq.us:9981/stream/channelid/855888891?ticket=A9C4D071873E66DF9A59C7F5C6B92C6F3592978A&profile=pass
+51	 ID	Online	http://80.80.160.168/live/5/live.m3u8
+52	 PLANET GREEN	Online	http://80.80.160.168/live/4/live.m3u8
+53	 TRAVEL	Online	http://80.80.160.168/live/3/live.m3u8
+54	 TLC	Online	http://80.80.160.168/live/2/live.m3u8
+55	 INVESTIGATION DISCOVERY	Online	http://80.80.160.168/live/1/live.m3u8
+56	 DISCOVERY SCIENCE HD	Online	http://80.80.160.168/live/9/2500000/live.m3u8
+57	 SCI	Online	http://80.80.160.168/live/9/live.m3u8
+58	 (ONLINE) KBS 2	Online	http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
+59	 (ONLINE) SONY ONE ID	Online	http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+60	 (ONLINE) SONY CHANNEL ID	Online	http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/01.m3u8
+61	 (DOUBTFUL) ENTERTAINMENT ID	Online	http://45.126.83.51/uq2663/h/h10/index2.m3u8
+62	 (ONLINE) ARIRANG	Online	http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+63	 (DOUBTFUL) SBS	Online	http://210.210.155.35/qwr9ew/s/s42/01.m3u8
+64	 (ONLINE) EBS 2	Online	http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+65	 (ONLINE) EBS English	Online	http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+66	 (ONLINE) EBS KIDS	Online	http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+67	 (ONLINE) EBS Plus 1	Online	http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+68	 (ONLINE) K-Drama	Online	http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
+69	 (DOUBTFUL) CGTN DOCUMENTARY	Online	http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+70	 (ONLINE) Korea TV	Online	http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+71	 (DOUBTFUL) Sony One	Online	http://bit.ly/2Orhp3s
+72	 (DOUBTFUL) Sony Channel	Online	http://bit.ly/2CEUGfI
+73	 (DOUBTFUL) K+	Online	http://210.210.155.35/uq2663/h/h08/index.m3u8
+74	 (ONLINE) K-Drama	Online	http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+75	 (ONLINE) TVN KR	Online	http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
+76	 (ONLINE) GOODTV	Online	http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+77	 (ONLINE) TV-CHOSUN	Online	http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+78	 (ONLINE) EBS Plus 2	Online	http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+79	 (ONLINE) UPDATE CODE ZAL TV ON INSTAGRAM : @hendra.murdani	Online	http://wodpro24.tr4545.in:8080/expred/peru8k.mp4
+80	 (ONLINE) ASTRO QUAN JIA HD MY	Online	http://185.132.176.172:8278/quanjia_hero/playlist.m3u8?tid=m02000000000013947229&ct=17981&tsum=722357aca25fe89a557ffae8065f9184
+81	 (ONLINE) ASTRO XI YUE HD MY	Online	http://50.7.161.82:8278/Xiyue/playlist.m3u8?tid=m02000000000017759820&ct=17981&tsum=53c29b0be7c64f104ae681714706c51a
+82	 (ONLINE) BERNAMA TV MY (BACKUP)	Online	http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000012087578&ct=17975&tsum=73be977f4f0798142ff736e6f09da82d
+83	 (ONLINE) ASTRO AWANI	Online	http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+84	 (DOUBTFUL) MY CINEMA ID	Online	http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+85	 (DOUBTFUL) BLUE ANT EXTREME ID	Online	http://45.126.83.51/dr9445/h/h15/index.m3u8
+86	 (DOUBTFUL) BLUE ANT ENTERTAINMENT ID	Online	http://45.126.83.51/dr9445/h/h16/index.m3u8
+87	 (DOUBTFUL) DIVA ID	Online	http://rr.dens.tv/h/h11/index.m3u8
+88	 (DOUBTFUL) CINEMA WORLD ID	Online	http://rr.dens.tv/h/h04/index.m3u8
+89	 (DOUBTFUL) SONY CHANNEL ID	Online	http://rr.dens.tv/h/h142/index.m3u8
+90	 (DOUBTFUL) CELESTIAL MOVIES ID	Online	http://rr2.dens.tv/s/s33/index.m3u8
+91	 (DOUBTFUL) AXN ID	Online	http://rr.dens.tv/h/h141/index.m3u8
+92	 (DOUBTFUL) SONY ONE ID	Online	http://210.210.155.35/uq2663/h/h143/index.m3u8
+93	 (DOUBTFUL) SONY ONE ID (BACKUP)	Online	http://rr.dens.tv/h/h143/index.m3u8
+94	 (DOUBTFUL) K+ ID	Online	http://rr.dens.tv/h/h08/index.m3u8
+95	 (DOUBTFUL) ZEE BIOSKOP ID	Online	http://rr2.dens.tv/s/s32/index.m3u8
+96	 (DOUBTFUL) THRILL ID	Online	http://rr2.dens.tv/s/s34/index.m3u8
+97	 (DOUBTFUL) KIX ID	Online	http://rr.dens.tv/h/h07/index.m3u8
+98	 (DOUBTFUL) SINEMA INDONESIA	Online	http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+99	 (DOUBTFUL) K DRAMA	Online	http://rr2.dens.tv/s/s42/index.m3u8
+100	 (ONLINE) RAI MOVIE HD ITA	Online	http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+101	 (ONLINE) WAU HD RUS	Online	http://nn2.joj.sk/hls/wau-540.m3u8
+102	 (DOUBTFUL) B CINEMA RUS	Online	http://84.43.207.130/btvcinema/btvcinema.m3u8
+103	 (ONLINE) MOVIES 2	Online	http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+104	 (ONLINE) MOVIES 3	Online	http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+105	 (ONLINE) MOVIES 4	Online	http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+106	 (ONLINE) MOVIES 6	Online	http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+107	 (ONLINE) MOVIES 7	Online	http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+108	 (ONLINE) MOVIES 11	Online	http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+109	 (ONLINE) MTV ASIA HD	Online	http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+110	 (ONLINE) MTV CHINA HD	Online	http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+111	 (ONLINE) MiX Music HD	Online	http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+112	 (ONLINE) DANGDUTZ	Online	http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+113	 (ONLINE) Karaoke Channel	Online	http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+114	 (ONLINE) TMusic	Online	http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
+115	 (ONLINE) M2O TV	Online	http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+116	 (ONLINE) MUSIC CHOICE	Online	http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+117	 (ONLINE) MUSIC TOP	Online	http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+118	 (ONLINE) BOX HITS	Online	http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+119	 (ONLINE) KRAL WORLDTV	Online	http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b814000.m3u8
+120	 (ONLINE) RETRO TV	Online	http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+121	 (ONLINE) 1 MUSIC	Online	http://92.249.129.152/stream/1music.m3u8
+122	 KITANESIA	Online	http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
+123	 MALEO	Online	http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+124	 BMW TV	Online	http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
+125	 TABALONG TV	Online	http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
+126	 AREK TV SURABAYA	Online	http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+127	 UATV	Online	http://stream1.ninmedia.tv/uatv/udp.stream_360p/playlist.m3u8
+128	 TV DESA	Online	http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+129	 GEMILANG TV	Online	http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
+130	 RCTV	Online	http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
+131	 JAMBI TV	Online	http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
+132	 PAL TV	Online	http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
+133	 PON TV	Online	http://stream1.ninmedia.tv/pontv/rtmp.stream_360p/playlist.m3u8
+134	 OSHOP	Online	http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8
+135	 NABAWI TV	Online	http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+136	 BE TV	Online	http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
+137	 MI TV	Online	http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
+138	 TRIBRATA TV	Online	http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
+139	 POP MUSIK	Online	http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
+140	 MK TV	Online	http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
+141	 CINEMAX HD	Online	http://indon.dnsq.us:9981/stream/channelid/51542457?ticket=20E2DD52EEF03F77A1B6EAD367F99EA8B694179A&profile=pass
+142	 NAT GEO WILD	Online	http://indon.dnsq.us:9981/stream/channelid/1461154413?ticket=B73163DBDA7DFC41704CB28C7AEC7BF1891E8DBB&profile=pass
+143	 NAT GEO PEOPLE	Online	http://indon.dnsq.us:9981/stream/channelid/707541297?ticket=FB568AEE1E60F53D02D022E97854DE133B474463&profile=pass
+144	 NAT GEO	Online	http://indon.dnsq.us:9981/stream/channelid/1159590602?ticket=4A6165CC210A4B454B34A30DBE5629FEBF23A68B&profile=pass
+145	 FOX Sports	Online	http://indon.dnsq.us:9981/stream/channelid/910032788?ticket=66794FAEC2CC29D1B757C2B0A7DAC182119F1425&profile=pass
+146	 Disney Junior	Online	http://indon.dnsq.us:9981/stream/channelid/63007783?ticket=E31AF3DCCEA33973A6013E097CB27C6323572809&profile=pass
+147	 NAT GEO WILD	Online	http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
+148	 NAT GEO	Online	http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+149	 NAT GEO PEOPLE	Online	http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
+150	 DISCOVERY HD	Online	http://80.80.160.168/live/8/live.m3u8
+151	 Showtime	Online	http://80.80.160.168/live/7/live.m3u8
+152	 STAR MOVIES	Online	http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?IWAK-PEYEK.m3u8
+153	 STAR WORLD	Online	http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?IWAK-PEYEK.m3u8
+154	 MBC1 HD	Online	http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+155	 MBC2 HD	Online	http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
+156	 MBC3 HD	Online	http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
+157	 MBC4 HD	Online	http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
+158	 BTV NEWS	Online	http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+159	 OKTO	Online	http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+160	 (DOUBTFUL) SUPER SOCCER HD ID	Online	http://rr.dens.tv/h/h20/index.m3u8
+161	 (DOUBTFUL) MNC SPORTS	Online	http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
+162	 (DOUBTFUL) EGG NETWORK HD ID	Online	http://rr.dens.tv/h/h22/index.m3u8
+163	 (ONLINE) ABU DHABI SPORTS 2 UAE	Online	http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+164	 (ONLINE) ABU DHABI SPORTS 4 UAE	Online	http://adtv.ercdn.net/adsportextra/adsportextra_480p.m3u8?v=2590751696
+165	 (ONLINE) DUBAI RACING UAE	Online	http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+166	 (ONLINE) ORANGE SPORT	Online	http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
+167	 (ONLINE) REAL MADRID TV ESP	Online	http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
+168	 (ONLINE) ESPN HD USA	Online	http://80.80.160.168/live/6/live.m3u8
+169	 (DOUBTFUL) FIGHT SPORTS USA	Online	http://rr.dens.tv/h/h05/index.m3u8
+170	 (ONLINE) FIGHT TIME USA	Online	http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+171	 (ONLINE) SPORTS HOLE US	Online	http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+172	 (ONLINE) ALL SPORTS LTN	Online	http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+173	TV ONE 2	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/12.ts
+174	TRANS TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/11.ts
+175	TRANS 7 HD	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/10.ts
+176	RAJAWALI TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/8.ts
+177	METRO TV HD	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/1.ts
+178	KOMPAS TV 1	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/15.ts
+179	INDOSIAR 1	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/5.ts
+180	CNN INDONESIA	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/14.ts
+181	FOODIE	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/25.ts
+182	TVRI	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/138.ts
+183	Berita Satu	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/140.ts
+184	Jak TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/141.ts
+185	ANTV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/143.ts
+186	JGo	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/84.ts
+187	Travel Channel	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/126.ts
+188	MALEO	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/145.ts
+189	INSPIRA TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/146.ts
+190	BMW TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/148.ts
+191	TABALONG TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/149.ts
+192	AREK TV SURABAYA	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/150.ts
+193	RUMAH TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/151.ts
+194	UATV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/152.ts
+195	TV DESA	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/153.ts
+196	GEMILANG TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/154.ts
+197	RCTV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/157.ts
+198	PAL TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/160.ts
+199	PON TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/161.ts
+200	OSHOP	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/162.ts
+201	NABAWI TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/163.ts
+202	BE TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/164.ts
+203	RB TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/165.ts
+204	DMI TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/166.ts
+205	SALINGSAPA	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/167.ts
+206	NU CHANNEL	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/168.ts
+207	PRAJA TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/169.ts
+208	RRI NET	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/170.ts
+209	GPR TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/171.ts
+210	MI TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/172.ts
+211	TRIBRATA TV	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/173.ts
+212	POP MUSIK	Online	http://157.119.56.249:2019/live/gratis/diemdiemaja/174.ts
+213	NET. TV	Online	http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+214	TRANSTV	Online	http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+215	TRANS7	Online	http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+216	RCTI	Online	http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+217	SCTV	Online	http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+218	MNC	Online	http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+219	INDOSIAR	Online	http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+220	ANTV	Online	http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+221	GLOBAL TV	Online	http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+222	METROTV	Online	http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+223	TV ONE	Online	http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+224	RTV	Online	http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+225	JTV	Online	http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+226	iNEWS HD	Online	http://edge.okezone.com/live/inewsokezone.com.m3u8
+227	KOMPAS TV	Online	http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+228	SINDO TV	Online	http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+229	CNN	Online	http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+230	BERITA SATU	Online	http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+231	BERITA SATU WORLD	Online	http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+232	JAKARTA GLOBE NEWS CHANNEL	Online	http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+233	RRI NET	Online	http://36.89.47.217:11935/rrinet/live/index.m3u8
+234	SKY NEW	Online	http://julianlennon.com/wp-content/uploads/2014/12/large-square-sky-news-logo.png"
+235	TVRI NASIONAL	Online	http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
+236	TVRI 3 BUDAYA	Online	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+237	DAAI TV	Online	http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+238	BAYU TV	Online	http://wms.klikhost.com/bayutv/live/playlist.m3u8
+239	TVKU	Online	http://103.30.1.14:8080/hls/live.m3u8
+240	INTV	Online	https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+241	BMS TV	Online	http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+242	ADI TV YOGYAKARTA	Online	http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+243	TATV SOLO	Online	http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+244	BBS TV SURABAYA	Online	http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+245	BALI TV	Online	http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+246	TV IKIM	Online	http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+247	ASTRO ARENA	Online	http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+248	SBS IN	Online	http://rr.dens.tv/h/h28/index1.m3u8
+249	CELESTIAL MOVIE	Online	http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+250	THRILL	Online	http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+251	ZEE BIOSKOP	Online	http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+252	FOODIE	Online	http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+253	HOME&LIVING	Online	http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+254	INSAN TV	Online	http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+255	ASWAJA TV	Online	http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+256	SURAU TV	Online	http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+257	NADA MUSLIM TV	Online	http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+258	Reformed21 HD	Online	http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+259	CGTN	Online	https://livedoc.cgtn.com/1000d/prog_index.m3u8
+260	JAKTV	Online	http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+261	CNN Indonesia	Online	http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
+262	METRO TV	Online	http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+263	TVRI	Online	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+264	K+	Online	http://210.210.155.35/uq2663/h/h08/index1.m3u8
+265	SBS in	Online	http://210.210.155.35/uq2663/h/h28/index1.m3u8
+266	SONY One	Online	http://210.210.155.35/uq2663/h/h13/index1.m3u8
+267	RODJA	Online	http://rr2.dens.tv/s/s14/index1.m3u8
+268	FOX Family Movies	Online	http://203.153.218.26:9981/stream/channelid/750664492?ticket=A3D34C2F4D75F25D2022471799701CD0FF7950A4&profile=pass
+269	Blue Ant EXTREME	Online	http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
+270	THRILL (link 2)	Online	http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+271	Cartoon Network	Online	http://203.153.218.26:9981/stream/channelid/1550146228?ticket=AF3DCDE080523FF64BD91861C68599813879BB0F&profile=pass
+272	Disney Channel	Online	http://203.153.218.26:9981/stream/channelid/2098292279?ticket=B3C087D794ADB9CB0D7B89414C84A32DC5889AF5&profile=pass
+273	National Geographic	Online	http://203.153.218.26:9981/stream/channelid/1159590602?ticket=E89ECEBB08187E7830CEE02569772C593D07B88C&profile=pass
+274	NAT GEO Wild	Online	http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
+275	NAT GEO People	Online	http://203.153.218.26:9981/stream/channelid/707541297?ticket=B43B8ED27A5A69A2EDEF706DB73C2A8BDDD5095B&profile=pass
+276	Blue Ant Extreme	Online	http://203.153.218.26:9981/stream/channelid/120552629?ticket=CE7832FF190AF0482563D9348D29426C87170A65&profile=pass
+277	FOX Family Movies	Online	http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
+278	24/7 Kuroko’s Basketball	Online	http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+279	24/7 Hollywood Movies 4	Online	http://ws4.streamhls.huya.com:80/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8
+280	24/7 Hollywood Movies 8	Online	https://zk.wb699.com/2019/03/17/zzEeMZblmLcJsaVX/playlist.m3u8
+281	BLUE ANT EXTRIME	Online	http://bit.do/Blueantextreame
+282	TVRI Nasional	Online	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+283	MTV South East Asia	Online	http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+284	FOX COMEDY	Online	http://161.0.157.7/PLTV/88888888/224/3221226800/index.m3u8
+285	Net Tv	Online	http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+286	ANTV	Online	http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+287	FOX Movies Premium	Online	http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+288	TV One	Online	http://id1.indostreamingtv.com/live/tv444/index.m3u8
+289	CCTV 4	Online	http://210.210.155.35/qwr9ew/s/s19/02.m3u8
+290	My Kids	Online	http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+291	MY KIDS HD	Online	http://bit.do/Mykids
+292	Animal Planet South East Asia	Online	http://80.80.160.168/live/1/500000/live.m3u8
+293	Celestial Movies SE Asia	Online	http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+294	Star World Asia	Online	http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
+295	Toonami	Online	http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
+296	Cartoon Network Asia	Online	http://161.0.157.8/PLTV/88888888/224/3221226843/index.m3u8
+297	Life Inspired	Online	https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_1_av-p.m3u8?sd=10&rebase=on
+298	Arirang	Online	http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+299	Diva Universal Asia	Online	http://210.210.155.35/uq2663/h/h11/index.m3u8
+300	CINEMA WORLD	Online	http://45.126.83.51/uq2663/h/h04/index2.m3u8
+301	Star China Movie	Online	http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+302	CELESTIAL MOVIES	Online	http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+303	ZEE BIOSKOP	Online	http://rr2.dens.tv/s/s32/index1.m3u8
+304	THRILL	Online	http://rr2.dens.tv/s/s34/index1.m3u8
+305	CNN	Online	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+306	CNBC	Online	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+307	BLOOMBERG	Online	http://45.126.83.51/uq2663/h/h03/index2.m3u8
+308	CHANNEL NEWS ASIA	Online	http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+309	AL JAZEERA	Online	http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+310	DW	Online	http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
+311	EURONEW	Online	http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+312	RUSIA TODAY	Online	http://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
+313	NAT GEO PEOPLE	Online	http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxMjo0MiBBTSZoYXNoX3ZhbHVlPWV2blpob000aWtYYmtRZCtSNWl4WWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgwNHx1cGxheXwxNTI4MjU0NzYyfDIwMi4yOC40MS4xNDQ=
+314	KBS WORLD	Online	http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+315	SONY	Online	http://210.210.155.35/uq2663/h/h142/01.m3u8
+316	CCTV4	Online	http://210.210.155.35/session/54f1bc0e-7b7a-11e8-a6e4-b82a72d63267/qwr9ew/s/s19/01.m3u8
+317	CGTN DOCUMENTARY	Online	http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+318	TV5 MONDE	Online	http://ott-cdn.ucom.am/s75/index.m3u8
+319	ABC AUSTRALIA	Online	http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
+320	SUPER SOCCER	Online	http://210.210.155.35/uq2663/h/h20/index.m3u8
+321	GO	Online	http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+322	KHAZANAH	Online	http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+323	T MUSIC	Online	http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+324	FASHION TV	Online	http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+325	DW TV	Online	http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
+326	EURONEWS	Online	http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+327	RT	Online	http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
+328	TVE	Online	http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
+329	ZEE BISOKOP	Online	http://210.210.155.35/session/dd44cb1a-3b40-11e9-a903-92a2ae097d68/qwr9ew/s/s32/index1.m3u8
+330	E	Online	http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
+331	PHOENIX	Online	http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
+332	FYI	Online	http://iliketot.dyndns.tv/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxNjoyMyBBTSZoYXNoX3ZhbHVlPVdWdiswUjAwUC9SWnpINWtGUmNBZFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgxM3x1cGxheXwxNTI4MjU0OTgzfDIwMi4yOC40MS4xNDQ=
+333	THE INDONESIA CHANEL	Online	http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+334	GLOBAL TV	Online	http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+335	NET TV HD	Online	http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+336	RTV	Online	http://rr2.dens.tv/s/s12/01.m3u8
+337	INEWS	Online	http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+338	Berita Satu	Online	http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+339	Kompas TV	Online	http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+340	ELSHINTA TV	Online	http://rr2.dens.tv/s/s10/01.m3u8
+341	HIDUP Tv	Online	http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+342	TVRI	Online	http://rr2.dens.tv/s/s11/01.m3u8
+343	DAAI TV	Online	http://rr2.dens.tv/s/s13/01.m3u8
+344	ALQURAN AL KARIM	Online	http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
+345	U CHANNEL	Online	http://stream.rs.co.th/you-hi/index.m3u8
+346	PIJAR TV	Online	http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+347	SETANTA_SPORT	Online	http://ott-cdn.ucom.am/s81/04.m3u8
+348	Belarus_5_Sport	Online	http://95.46.208.76:9898/belarus5
+349	QazSport	Online	http://109.248.236.41:4433/udp/238.1.1.116:1234
+350	Superyatch_Tv	Online	http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+351	Arhat_Sport_Tv	Online	http://arhat.tv/public/360p/index.m3u8
+352	DSport-India	Online	http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
