@@ -1,14 +1,5 @@
 	Channel Name	Status	URL
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO SPORT", (ONLINE) FOX SPORTS 2 HD
-http://123.29.128.167/v5live.m3u8?c=vstv462&q=sd&deviceType=7&userId=22387&deviceId=&type=tv&rkey=03270314ct9MR9Y6&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=HCM&rbk=20316270139&pnode=172.16.52.133&isp=vn
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO SPORT", (ONLINE) FOX SPORTS 2 SD
-http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO SPORT", (ONLINE) FOX SPORTS 3 SD
-http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO SPORT", (ONLINE) SETANTA HD
 http://ott-cdn.ucom.am/s81/03.m3u8
 
