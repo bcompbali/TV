@@ -4,11 +4,7 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="INDONESIA", ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png"  group-title="INDONESIA", ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png"  group-title="INDONESIA", ANTV
 #http://id2.indostreamingtv.com/live/antv/index.m3u8
-#EXTINF:-1 tvg-logo="https://storage.nu.or.id/storage/post/16_9/big/1428588428.jpg" group-title="INDONESIA", ASWAJA TV
-#http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 #http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="INDONESIA", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -21,8 +17,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1 tvg-logo="http://www.bungotv.co.id/BUNGOTV.png" group-title="INDONESIA", Bungo TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dX3GwdQ.png" group-title="INDONESIA", Bengkulu Ekspress TV
-http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="INDONESIA", CTV BANTEN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -30,18 +24,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="INDONESIA", Ctv
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title=INDONESIA",DW
-#EXTINF:-1 tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" group-title=INDONESIA", DAAI TV
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
 #EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="INDONESIA", Dhamma
 https://media.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-logo="https://dutatv.com/wp-content/uploads/2019/06/dutatv-web-header.png" group-title="INDONESIA", Duta TV
 https://video2.onlivestreaming.net/dutatelevisi/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA", Dangdutz
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title="INDONESIA" group-title="INDONESIA", Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3f/Elshinta_tv_logo.jpg" group-title="INDONESIA", Elshinta
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Global_TV_2008.png" group-title="INDONESIA", GTV
 #https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
@@ -1537,166 +1523,7 @@ https://media-vidio-com.akamaized.net/uploads/1635620/ets-playlist-1600-32865.m3
 
 <|-- Bleach
 ================================================================================================================================
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 001 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1AwNcv_GEr6U-naxgVV48FYzVSWQofXvb?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 002 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1DnhTaJrlgm4L5BCF379dg5fOjdzHArmd?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 003 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1HO-Tc8RbJajZ7Vo6gEs9suDIVgK0fRcB?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 004 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1HlgXEC1t-RmSysOINaxO2-XMOYz0W8fk?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 005 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1h13E1jjBJooqW15Ww-3QgHMyk4T-2pl2?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 006 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/15wk39cnjdifgOPpFO83R4pEK5vEIdp9Y?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 007 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1R8ezfi5u2g6913GZsXyfx6ln6GTJzrZp?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 008 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1jv29AunbJwdw1C2So8iT6nNZ6Xi3EhhB?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 009 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1_njlte7S8Xa9bKv6DZuNGIY-UbTC2oGi?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 010 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1mk5tRT6IpRH1s9YDm7Vu0kWvWZu2AVJD?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 011 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/19MTYljzaF_ACT8QZV38obG7XfMu46Bo7?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 012 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1-NXUMTrBmWYdmLZYc3rI0ET11wxepr_7?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 013 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1C-EJKMPZ8_swc88IJw0fDy6kesgYQFUy?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 014 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1rlXEY_9WX6gSOYqP1oVj3lyb3NQSs5Yl?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 015 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1T7P6cBkm0QfWrzdVcoREpWPJQxo5Yqdl?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 016 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1pXvPkYY8c4kEzDv1Sp2afoLoTVjk1qPl?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 017 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1Gx3xkfZhYxj8eymrCSm0ooC0AzKJFr3F?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 018 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/16rGrrkV_JYD96VssxjpfwZspyTNydPLY?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 019 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1TnVeYA52yDBw0-q-OcDwNYmM0-pqXcZ1?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 020 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/19acJcSd2pHND2EbEOIMxR71FxUZt3rIv?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 021 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/10iC0G35HXA6Yq1TpLH9zdkussRP1wbCz?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 022 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1GePzLWAYncOM_QTJuOCxOZzh8e2F4Hss?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 023 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1X4UpEeDjcbUOvd-a5x9VrCEMe4ESV1OW?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 024 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1xnu5ygyyd51IMJ3buxnuJV-Z4FuUdIQk?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 025 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/10wYaNDxE-6PdGmVfjBXhdYevK8OwaX-i?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 026 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1b2rjVS6a_V2CNFLWb4QXwI_iUlEehABx?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 027 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1A2looLiCytzfDdll4iIos-BIij6q_23u?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 028 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1WBMPuhLV0LlWkz2q4_11PLernkAAMfCw?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 029 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1kCvqAMXIUEMTVofGJCYU5GeYJfUzKMBG?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 030 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1oTbyzVV2m6-wkeXjvD65AgK_sjs_E1_w?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 031 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/17ZvcDIBTTOlgK0LeAN1EDymZtphSfiXt?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 032 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1vssRN7o1Ya_JVaITGb1IdjV1hitZgpWM?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 033 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/16ngIVeZUlUyH7Vrmo3xSmHD4hGtUe8eo?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 034 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1_aZVm7_6P916xnvlQcQuuRVZhHc8tDtP?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 035 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1ADoBgdjgp0nDqH971VozUBPH53t291A3?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 036 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1KzayJhr-ssfsgm-WeI48mrNLea6caV-f?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 037 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1MLi7C4oZaJ1OWBQB37q2d-q2VyD8EpzA?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 038 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1pd_DHLb0xUFPlfdkTKMfYAIlZsCGdzXy?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 039 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1H2MhTj0VMxOsSrA8Dkqo_V9_q0MweCqB?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 040 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1JcEpMRtE_FnyN2eTGeqOtwL22gv761gp?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 041 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1ngnk63t2dfY6NSuJNYycoK318fUtBgnd?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 042 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1xWd3Bc0cp8EvJarMy_qgoTHcdZSB-8SM?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 043 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1TLbW-_7lZNLCnTBrHqk4PhWxYB8WdArN?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 044 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/14T_D2CFimVf9SExEhB28p3bfNW4-txSG?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 045 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1OXeBm8Xbpxk3nM8bHj-8u36MkG2Ru5jf?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 046 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1lXQ06nHgZzPlfjch8IRn5KwUwKpcSsqx?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 047 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1LExrEDdrrG-Kq1DTP5iX-LqnCvXhBaLl?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 048 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/14ts0HM3edEnOP4TuN7O1JI_d0baJctZk?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 049 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1LnQNZiFy93k1VMrjiJEWUs1lX0rKm3Te?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 050 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1OEbVdsbIhcba9ctVkiLaxqe9co814MEd?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 051 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/16IuApsJflHr674HcASvTBTNXw7d1invb?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 052 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1lj1TdiDEwMwS-CappWeL4qIKBOcgbuH7?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 053 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1WXykyTA6onTFiRLwYQtiiSMaLojeyX3g?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 054 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1iFGTk7WVMcgC949ACHTtVpVOKjv_0d1E?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 055 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1dRwtYE_xu0Ll6EPy5jONS-AjAP6lFemE?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 056 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1EMYzoNxa5LBP3e-ImcHrmehFsJ5RYJU5?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 057 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1mDciAcqZG4vtSvjO8fM2mU6qdGN5Uie9?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 058 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1EpxLVOQs8X1RD2gyunvTFzJEysnQO5of?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 059 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1-fj0sphT3ANIsO7G0_Q-mgIl5SXhGP4U?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 060 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1G-caWgCPda-ktaa9Ud3Nsm0gCtt6CUuT?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 061 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/14bFvi6uOR8hwnJiCevVo73qYs9rBJALF?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 062 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1b-frImVHIqJpo1kVMCASuj8jkZri3D0r?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 063 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1oHtPQ0NU2eSD4jZ4_lebDJd4L9ek6aVD?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 064 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1n_YW7zU1jt_E5DmovkGvr5bzQ_cqXCrW?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 065 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1unWElv87Z2Sr-MnR_icO9PJUhAHCBbre?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 066 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1rF7FrhDzbOaktitgdGtReaRhA1GQBrFR?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 067 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1UCIt0NucK4otvDHSiZ2yYHnKTyIENMT0?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 068 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1piEEX2607rqLlmLakVovcP-u5mR4pzeO?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 069 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1H799vfN__4qVnv1IVeF-jSLSWvZD2Y9f?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Circle.png" group-title="Bleach",Episode 070 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1Mu8KrRPPvsDUW0j18Fy7Z_3zq7yGNm6y?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 071 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1AmDvWi8SYX_7BIeikLPNClk0vXQhwRNk?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 072 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1YyFGhb781JipFsq3tS4cvL5RELnL2Jb0?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 073 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/118c_T7FR6n4tfpZqWHPMCrhft3fefzRq?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 074 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/17d_oNOndaurPgIgUY6JAEcrwDAU8vwy3?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 075 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1R_gpy_8Hqi8Kz4FUFS2CrD7u5vi-BeHm?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 076 [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1hLhBIM4zSU1CTu08bkJekh4DTojAk-Lu?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 077 [filmbluray.iD]
 https://www.googleapis.com/drive/v3/files/1Arp_XqffDhs_1uDQp4lpVYG-FHOBG1SC?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/Bleach-Folder.png" group-title="Bleach",Episode 078 [filmbluray.iD]
 https://www.googleapis.com/drive/v3/files/16dXvnWlbSwV03deEUYjFuonp3fGw-Tqs?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
@@ -1749,218 +1576,9 @@ https://www.googleapis.com/drive/v3/files/1PdO18fYJgvFt6KNy9jtbmb80ga6HYZ6e?alt=
 
 
 
-<|-- Boruto
-================================================================================================================================
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 001 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-001.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 002 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-002.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 003 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-003.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 004 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-004.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 005 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-005.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 006 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-006.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 007 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-007.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 008 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-008.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 009 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-009.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 010 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-010.mp4
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 011 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-011.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 012 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-012.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 013 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-013.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 014 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-014.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 015 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-015.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 016 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-016.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 017 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-017.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 018 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-018.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 019 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-019.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 020 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-020.mp4
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 021 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-021.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 022 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-022.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 023 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-023.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 024 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-024.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 025 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-025.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 026 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-026.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 027 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-027.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 028 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-028.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 029 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-029.mp4
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 030 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-030.mp4
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 081 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-081.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 082 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-082.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 083 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-083.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 084 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-084.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 085 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-085.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 086 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-086.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 087 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-087.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 088 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-088.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 089 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-089.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 090 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-090.mkv
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 091 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-091.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 092 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-092.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 093 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-093.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 094 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-094.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 095 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-095.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 096 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-096.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 097 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-097.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 098 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-098.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 099 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-099.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 100 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-100.mkv
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 101 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-101.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 102 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-102.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 103 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-103.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 104 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-104.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 105 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-105.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 106 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-106.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 107 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-107.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 108 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-108.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 109 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-109.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 110 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-110.mkv
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 111 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-111.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 112 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-112.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 113 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-113.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 114 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-114.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 115 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-115.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 116 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-116.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 117 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-117.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 118 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-118.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 119 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-119.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 120 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-120.mkv
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 121 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-121.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 122 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-122.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 123 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-123.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 124 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-124.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 125 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-125.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 126 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-126.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 127 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-127.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 128 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-128.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 129 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-129.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-uzumaki.png" group-title="Boruto",Episode 130 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-130.mkv
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 131 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-131.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 132 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-132.mkv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/boruto-001.jpg" group-title="Boruto",Episode 133 [filmbluray.iD]
-http://iptv.filmbluray.id/vod/boruto/boruto-133.mkv
-
 
 <|-- Doraemon (Complette)
 ================================================================================================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2006 - Nobita’s Dinosaur [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1tCO0cwI2E5HUWz82z3uS_wPRPg9BRtkQ?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2007 - Nobita's New Great Adventure into the Underworld [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/10-Ea90LQrDZPD2FSbUS9VlSFcG3SSwMU?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2008 - Nobita and the Green Giant Legend [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1C35A1iTcbPuQNtt56-vSw6b61agHkMF4?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2009 - Nobita's Spaceblazer [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1Gw_vumu8eVVDWIlfo4eIcD_WIiAIyCIr?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2010 - Nobita's Great Battle of the Mermaid King [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/16mPyKnAvjeuv-fQjv1l_UL3mhUKKfyhS?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2011 - Nobita and the New Steel Troops - Winged Angels [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1y3YqZz6QU7lE9bHTIIu2pCsv5vQSPcrr?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2012 - Nobita and the Island of Miracles Animal Adventure [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1cxv2mkO7Dwz_m1r9V6NevjzRro8ZnLED?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2013 - Nobita's Secret Gadget Museum [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1saaxwcUwpaRjyD2BNs3IjxJgPrdzQfUy?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2014 - New Nobita's Great Demon - Peko and the Exploration Party of Five [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/173FmIq17qtG7o_553O9afKfb3sDKN84x?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2015 - Nobita's Space Heroes [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/10ip_Yx86gR-n2X6Fim_J-OsjEV1ZB60R?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2016 - Nobita and the Birth of Japan [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1cyB1Bf_JrzgY0V7eopAxaljK2kFunOuQ?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2017 - Great Adventure in the Antarctic Kachi Kochi [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1PAfJ1Y1CDtuKoyOKpb02wwzHb0D-g3dq?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2018 - Nobita's Treasure Island [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1uN2IekqcbP0Bd6RZhrlz-6EcJK4P6tmd?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2019 - Nobita's Chronicle of the Moon Exploration [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1juvfxBmj-qGgqBZZ3aKAQUXLpMzshgvb?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvqdXp7.png" group-title="Doraemon",Doraemon 2014 - Stand by Me [filmbluray.iD]
-https://www.googleapis.com/drive/v3/files/1zlrZN1d5hQ69AxMWsqh6Tu3EjRyVAxwl?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-
-
 
 <|-- Kimetsu no Yaiba (Complette)
 ================================================================================================================================
