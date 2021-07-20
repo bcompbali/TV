@@ -23,31 +23,22 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title=INDONESIA",DW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3f/Elshinta_tv_logo.jpg" group-title="INDONESIA", Elshinta
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Global_TV_2008.png" group-title="INDONESIA", GTV
-#https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 #http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gprtv.id/frontend/asset/img/gpr-logo.png" group-title="INDONESIA",GPR TV
-http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg"  group-title="INDONESIA", Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="INDONESIA", InsanTV
-http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png"group-title="INDONESIA", INEWS
 http://202.80.222.171/000001/2/ch14041511541532132975/1001.m3u8?IASHttpSessionId=OTT219942019050409420311502450&ztecid=ch14041511541532132975&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch14041511541532132975&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDcvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
 #https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="INDONESIA", Indosiar
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
 
-#EXTINF:1 tvg-logo="http://www.inspira.tv/images/logo.png" group-title="INDONESIA", Inspria
-http://stream1.ninmedia.tv/inspiratv/udp.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.topas.tv/topastv/img/logo.png" group-title="INDONESIA", Info TV
 
 #EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg"group-title="INDONESIA", JAKTV
 http://202.80.222.143/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_knbMLJw0sQA/Syby-VMQLeI/AAAAAAAAAAU/LU-FvZzkXm4/w1200-h630-p-k-no-nu/logojambitv.jpg" group-title="INDONESIA",  Jambi TV
-http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="INDONESIA", JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skucDqd.png" group-title="INDONESIA",Jawa Pos TV
@@ -55,42 +46,22 @@ https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 #http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4e/JEK_TV_%282018%29.png/300px-JEK_TV_%282018%29.png" group-title="INDONESIA", Jek TV
 http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png"group-title="INDONESIA", Jakarta Globe
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.jember1tv.co.id/wp-content/uploads/2016/07/logo-retina.png" group-title="INDONESIA", JEMBER1 TV
-http://wowza60.indostreamserver.com:1935/jember1tv/live/chunklist_w829570418.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="INDONESIA", J'GO TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gSFLRz/karaoke_ch.jpg" group-title="INDONESIA", KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="INDONESIA", Kompas TV
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
+
+
 #http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com/oblack
 #EXTINF:-1 tvg-logo="http://jpmstream.com/mobile/images/18.png"group-title="INDONESIA",Kawanua tv
 http://122.248.43.138:1935/ch18/myStream/chunklist_w588500490.m3u8
-#EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="INDONESIA", Kitanesia
-http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/300px-Mayapada_TV.png" group-title="INDONESIA", MyTV
-#EXTINF:-1 tvg-logo="http://www.mgstv.co.id/images/logo.png" group-title="INDONESIA", Megaswara TV
-http://wowza60.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC TV
-https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/300px-Mayapada_TV.png" group-title="INDONESIA", MyTV
+
 #https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vW7UM5Q.jpg" group-title="INDONESIA", MNC News
 http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1434682767_logo_COMEDY-CHANNEL.png" group-title="INDONESIA",MNC Comedy
-https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
-#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1434682537_logo_MOVIE-CHANNEL.png" group-title="INDONESIA", MNC Movie
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCSports.id.png" group-title="INDONESIA", MNC SPORT
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1577787251_logo_Vision%20Prime-01.png" group-title="INDONESIA", Vision Prime
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="INDONESIA", Maleo
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="INDONESIA", MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1650266961_b1492000_sleng.m3u8
 
@@ -100,13 +71,11 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1650266961
 https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 #https://dl.dropbox.com/s/4x6avyxdo9mc2ph/NET%20TV.m3u8?dl=0
 #http://id2.indostreamingtv.com/live/nettv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.padangtv.id/wp-content/uploads/2016/06/logo1.png" group-title="INDONESIA", PADANG TV
-https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://pktvbontang.com/wp-content/uploads/2019/06/LOGOPKTV2019.png" group-title="INDONESIA", PKTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZuvHze2.png" group-title="INDONESIA", Pop Musik
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QehJSaU.png" group-title="INDONESIA", Prima TV Banjarmasin
-http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png" group-title="INDONESIA", Pon TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xy69nGC.png" group-title="INDONESIA", Radar TV
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
@@ -126,10 +95,7 @@ https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/eU0ivY1.jpg?2" group-title="INDONESIA",Sinema Indonesia
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9a/a3/cc/9aa3cca889c266b1cd750a452d982a9e.jpg" group-title="INDONESIA", Saling Sapa TV
-http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="INDONESIA", SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
+
 #https://dl.dropbox.com/s/ac9mslj6faury6k/SCTV%20Trial.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="INDONESIA", SCTV
@@ -149,8 +115,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="INDONESIA", TV One
-https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-m1b3UXqt58I/VTHg2ePyh5I/AAAAAAAAAJE/sZdQWMZ-gO8/s1600/tv9.jpg" group-title="INDONESIA", TV 9
 http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="INDONESIA", Tabalong TV
@@ -158,13 +122,8 @@ http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="http://www.tegartv.com/wp-content/uploads/2019/06/Logo-TegarTV.png" group-title="INDONESIA", Tegar TV Jogja
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="INDONESIA", THE INDONESIAN CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tribrata.tv/wp-content/uploads/2019/06/logo-tribrata-1.png" group-title="INDONESIA", Tribrata Tv
-http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tvdesa.id/wp-content/uploads/2018/06/TV-Dea-460.png" group-title="INDONESIA", TV Desa
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://news.tvku.tv/assets2/images/logotvku2.png" group-title="INDONESIA", TVKU  Semarang
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA", TVRI
