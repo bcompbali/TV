@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QrmRJDw.png" group-title="INDONESIA", Arek TV
-http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="INDONESIA", ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png"  group-title="INDONESIA", ANTV
@@ -11,8 +9,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjdInOj.png" group-title="INDONESIA", Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/BBSTV_%28September_2017%29.png/1200px-BBSTV_%28September_2017%29.png" group-title="INDONESIA", BBS TV 
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="INDONESIA", Berita Satu World
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="INDONESIA", Berita Satu News
 http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
