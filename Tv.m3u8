@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ADI TV group-title="TV FULL",ADI TV
+#EXTINF:-1,ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1,bomp4
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
