@@ -1,5 +1,4 @@
 #EXTM3U
-// LOCAL
 #EXTINF:-1,ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1,AHSAN TV
@@ -94,11 +93,11 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTINF:-1,group-title="japan",SHOP CHANNEL 
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1, group-title="japan",CGNTV
+#EXTINF:-1,group-title="japan",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,bomp99
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1,bomp100
+#EXTINF:-1,group-title="japan", WBS TV
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:-1,bomp109
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
