@@ -97,6 +97,8 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,bomp99
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+#EXTM3U
 #EXTINF:-1,group-title="japan", WBS TV
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:-1,"group-title="korea" ,ARIRANG KOREA
