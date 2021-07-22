@@ -1,6 +1,5 @@
 #EXTM3U
-// LOCAL
-#EXTINF:-1, "group-title="local" ,ADI TV
+#EXTINF:-1,ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1,AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -100,9 +99,9 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1,group-title="japan", WBS TV
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1, ARIRANG KOREA
+#EXTINF:-1,"group-title="korea" ,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,bomp110
+#EXTINF:-1,CBS
 http://cbs-live.gscdn.com:80/cbs-live//cbs-live.stream/chunklist_w203939631.m3u8?
 #EXTINF:-1,bomp114
 http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
