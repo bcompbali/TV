@@ -97,50 +97,42 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,bomp99
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-
-#EXTM3U
 #EXTINF:-1,group-title="japan", WBS TV
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:-1,"group-title="korea" ,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,CBS
 http://cbs-live.gscdn.com:80/cbs-live//cbs-live.stream/chunklist_w203939631.m3u8?
-#EXTINF:-1,bomp114
+#EXTINF:-1,EBS
 http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1,bomp116
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,bomp117
+#EXTINF:-1,EBS2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,bomp121
+#EXTINF:-1,EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,bomp130
+#EXTINF:-1,KPLUS KOREA
 http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1,bomp159
+#EXTINF:-1,ONE KOREA
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
-#EXTINF:-1,bomp160
+#EXTINF:-1,GEM JAPAN
 http://45.126.83.51/uq2663/h/h19/index.m3u8
-#EXTINF:-1,bomp165
+#EXTINF:-1,KOREA 1
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1,bomp166
+#EXTINF:-1,KOREA 2
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1,bomp167
+#EXTINF:-1,KORE 3
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-#EXTINF:-1,bomp179
+#EXTINF:-1,YTN KOREA
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1,bomp181
+#EXTINF:-1,YTN KOREA
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1,bomp192
+#EXTINF:-1,CELESTIAL MOVIES
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1,bomp210
+#EXTINF:-1,HONGKONG 1
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1,bomp211
+#EXTINF:-1,HONGKONG 2
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1,bomp212
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1,bomp213
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
-#EXTINF:-1,bomp214
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1,bomp216
 http://stream.isuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1,bomp217
