@@ -1,4 +1,5 @@
 #EXTM3U
+// LOCAL
 #EXTINF:-1,ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1,AHSAN TV
