@@ -95,7 +95,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1,group-title="japan",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1,bomp99
+#EXTINF:-1,japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1,group-title="japan", WBS TV
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
@@ -131,13 +131,13 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1,HONGKONG 1
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1,HONGKONG 2
+#EXTINF:-1, HONGKONG 2
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1,bomp216
+#EXTINF:-1,HONGKONG 3
 http://stream.isuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1,bomp217
+#EXTINF:-1,HONGKONG 4
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1,bomp218
+#EXTINF:-1,BSTV HONGKONG
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1,bomp219
 https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
