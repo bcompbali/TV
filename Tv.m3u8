@@ -1,5 +1,5 @@
-EXTM3U 
-#EXTINF:-1,group-title="LOKAL",ADI TV
+EXTM3U
+#EXTINF:-1,group-title="lokal",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1,AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -19,6 +19,12 @@ http://122.248.43.138:1935/ch18/myStream/chunklist_w588500490.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1650266961_b1492000_sleng.m3u8
 #EXTINF:-1,METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:4.71467,BIZNET TV
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:1.51467,BIZNET ADEVNTURE
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:1.77067,BIZNET KIDZ HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1,RADAR TV
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1,RRI NET YOGYAKARTA
@@ -33,6 +39,31 @@ http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:4.22602,ZEE MOVIE
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:1,ZEE TV
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:1,ZEE CAFE HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:0.949367,&PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:1.1494,&FLIX HD
+#EXTINF:4.71467,BIZNET VIDEO
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:1.51467,BIZNET ADVENTURE
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:1.77067,BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:1.01167,MOLATV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+#EXTINF:1.73707,BS NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
+#EXTINF:2.664,GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:3.35732,MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:1.99466,INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1,TEGAR TV
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 #EXTINF:-1,TV KU
@@ -91,22 +122,24 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1,TVRI 3
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
-#EXTINF:-1,group-title="japan",SHOP CHANNEL 
+
+
+
+EXTM3U
+#EXTINF:-1,group-title="luar negri",SHOP CHANNEL 
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1,group-title="japan",CGNTV
+#EXTINF:-1,CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1,group-title="japan", WBS TV
+#EXTINF:-1,WBS TV
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1,"group-title="korea" ,ARIRANG KOREA
+#EXTINF:-1,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,CBS
 http://cbs-live.gscdn.com:80/cbs-live//cbs-live.stream/chunklist_w203939631.m3u8?
 #EXTINF:-1,EBS
 http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1,bomp116
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,EBS2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,EBS2
@@ -139,8 +172,6 @@ http://stream.isuntv.com/680k/mid_video_index.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,BSTV HONGKONG
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1,bomp219
-https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 #EXTINF:-1,TDM Maccau 1
 http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1,TDM maccau 2
@@ -151,250 +182,14 @@ http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1,TDM Maccau 4
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1,bomp251
-http://45.126.83.51/qwr9ew/s/s28/02.m3u8
-#EXTINF:-1,bomp252
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1,bomp253
-http://45.126.83.51/qwr9ew/s/s27/02.m3u8
-#EXTINF:-1,bomp254
-http://210.210.155.35/qwr9ew/s/s27/02.m3u8
-#EXTINF:-1,bomp262
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1,bomp265
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,bomp266
-http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
-#EXTINF:-1,bomp279
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1,bomp280
-http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1,bomp291
-http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1,NHK WORLD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,bomp336
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1,bomp346
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1,bomp352
-http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1,bomp354
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1,bomp370
-https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/chunklist.m3u8
-#EXTINF:-1,bomp378
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1,bomp379
-http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:-1,bomp382
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1,bomp396
-https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1,bomp398
-http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
-#EXTINF:-1,bomp401
-http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1,bomp411
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-#EXTM3U
-#EXTINF:-1,Bcomp_1
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1,Bcomp_2
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1,Bcomp_3
-https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bcomp_4
-http://185.180.221.194:8278/streams/d/One/playlist.m3u8
-#EXTINF:-1,Bcomp_5
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1,Bcomp_6
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1,Bcomp_8
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1,Bcomp_9
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1,Bcomp_10
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU
-#EXTINF:-1,Bcomp_11
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1,Bcomp_12
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1,Bcomp_13
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1,Bcomp_15
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1,Bcomp_17
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1,Bcomp_18
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1,Bcomp_19
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1,Bcomp_20
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU
-#EXTINF:-1,Bcomp_21
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1,Bcomp_22
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1,Bcomp_23
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1,Bcomp_24
-http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
-#EXTINF:-1,Bcomp_25
-http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-#EXTINF:-1,Bcomp_26
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-#EXTINF:-1,Bcomp_27
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1,Bcomp_28
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1,Bcomp_29
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1,Bcomp_30
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1,Bcomp_31
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1,Bcomp_32
-https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
-#EXTINF:-1,Bcomp_33
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1,Bcomp_34
-http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1,Bcomp_35
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-#EXTINF:-1,Bcomp_36
-http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-#EXTINF:-1,Bcomp_37
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1,Bcomp_39
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1,Bcomp_41
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1,Bcomp_42
-http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
-#EXTINF:-1,Bcomp_43
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1,Bcomp_46
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1,Bcomp_47
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1,Bcomp_48
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-#EXTINF:-1,Bcomp_49
-http://61.238.6.49:8000/bysid/99
-#EXTINF:-1,Bcomp_50
-http://livetv.dnsfor.me:80/channel.20.m3u8
-#EXTINF:-1,Bcomp_52
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLIT2Ht1xm2yYISYtXfhuLn2DunbaeGqSfAX-PO4UoLzkqPCUCYLGRIT-okRD8_IOQ08&usqp=CAU
-#EXTINF:-1,Bcomp_53
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bcomp_55
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1,Bcomp_56
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1,Bcomp_61
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyypctS8Wq9RE_dDV593ifumACjSlYEeDXlTWQ3ZIQS5NTJ0&s
-#EXTINF:-1,Bcomp_63
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-#EXTINF:-1,Bcomp_64
-https://yt3.ggpht.com/ytc/AAUvwniERUYttKoqkZ8ET52eGHldoKF6T1Pket2A0bCr=s900-c-k-c0x00ffffff-no-rj
-#EXTINF:-1,Bcomp_66
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1,Bcomp_67
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Bcomp_68
-http://185.180.221.194:8278/streams/d/Ci/playlist.m3u8
-#EXTINF:-1,Bcomp_70
-http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
-#EXTINF:-1,Bcomp_71
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1,Bcomp_72
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1,Bcomp_73
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1,Bcomp_74
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1,Bcomp_75
-http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
-#EXTINF:-1,Bcomp_79
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1,Bcomp_80
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDvWad4egvRg8Ned0wM36Ewb0syq_8qEqg&usqp=CAU
-#EXTINF:-1,Bcomp_82
-http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
-#EXTINF:-1,Bcomp_83
-http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1,Bcomp_85
-http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1,Bcomp_86
-http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1,Bcomp_87
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1,Bcomp_88
-http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
-#EXTINF:-1,Bcomp_90
-https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
-#EXTINF:-1,Bcomp_91
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1,Bcomp_92
-http://121.130.210.101:9981/stream/channelid/637185705
-#EXTINF:-1,Bcomp_93
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1,Bcomp_94
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU
-#EXTINF:-1,Bcomp_95
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-#EXTINF:-1,Bcomp_96
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1,Bcomp_97
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
-#EXTINF:-1,Bcomp_98
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1,Bcomp_99
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1,Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1,thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1,CELESTIAL2
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1,Bcomp_104
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1,CELESTIAL
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1,GEM TV
-http://210.210.155.35/uq2663/h/h19/index.m3u8
-#EXTINF:-1,AXN
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1,CCTV 4
-http://185.180.221.194:8278/streams/d/Cctv4/playlist.m3u8
-#EXTINF:-1,CCTV 5
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1,CCTV 17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1,CCTV 17
-http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1,BBC earth
-http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
-#EXTINF:-1,BBC World
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,CNA 
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
-#EXTINF:-1,AFN
-http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-#EXTINF:-1,FOOD NETWORK
-https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/food.network.usa.eastern.us.m3u8
-
-#EXTINF:-1,Bcomp_162
-https://food.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bcomp_163
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofood52/CDN/playlist.m3u8
-#EXTINF:-1,Bcomp_164
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,CGTN TV
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,CGTV Arab
@@ -407,7 +202,6 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,CGTV Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-
 #EXTINF:-1,TVB
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1,TDM 1
@@ -416,8 +210,6 @@ http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1,Phoenix News
 http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
-#EXTINF:-1,Bcomp_186
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1,BOOMERANG
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1,CARTOON NETWORK
@@ -432,8 +224,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,Bcomp_198
-https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778
 #EXTINF:-1,HISTORY
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1,DA VINCI
@@ -456,138 +246,37 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,Bcomp_214
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1,Bcomp_215
-http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby
-#EXTINF:-1,Bcomp_216
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1,Bcomp_217
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
-#EXTINF:-1,Bcomp_218
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
-#EXTINF:-1,Bcomp_219
-https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-#EXTINF:-1,Bcomp_220
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1,Bcomp_221
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1,Bcomp_222
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81003
-#EXTINF:-1,Bcomp_224
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1,Bcomp_225
-http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1,Bcomp_227
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1,Bcomp_228
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1,Bcomp_229
-https://rtmp.info/canal38/envivo/playlist.m3u8
-#EXTINF:-1,Bcomp_230
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_231
-http://astro3.rastream.com/melody
-#EXTINF:-1,Bcomp_232
-https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
-#EXTINF:-1,Bcomp_233
-https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/playlist.m3u8
-#EXTINF:-1,Bcomp_240
-http://puui.qpic.cn/qqvideo_ori/0/t3224drv0jc_496_280/0
-#EXTINF:-1,Bcomp_243
-https://mediaprima.rastream.com/myfm.android
-#EXTINF:-1,Bcomp_244
-http://astro2.rastream.com/mix
-#EXTINF:-1,Bcomp_245
-http://cp.usa7.fastcast4u.com:6192/;
-#EXTINF:-1,Bcomp_246
-http://usa7.fastcast4u.com:6192/stream
-#EXTINF:-1,Bcomp_248
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_249
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_250
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_251
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_252
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_253
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_254
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_255
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_256
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_257
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_258
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_259
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_260
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_261
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_262
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_263
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_264
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_265
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_266
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_267
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_268
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_269
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1,Bcomp_270
-https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
-#EXTINF:-1,Bcomp_271
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTM3U
-# Playlist created by SMPlayer 21.1.0 (revisi 9475) (32-bit) 
-#EXTINF:4.71467,BIZNET TV
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:1.51467,BIZNET ADEVNTURE
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:1.77067,BIZNET KIDZ HD
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1,CELESTIAL
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1,GEM TV
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1,AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1,CCTV 4
+http://185.180.221.194:8278/streams/d/Cctv4/playlist.m3u8
+#EXTINF:-1,CCTV 5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1,CCTV 17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1,CCTV 17
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1,BBC earth
+http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
+#EXTINF:-1,BBC World
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,CNA 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,AFN
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+#EXTINF:-1,FOOD NETWORK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/food.network.usa.eastern.us.m3u8
 #EXTINF:1.05067,FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:1.49642,WARNERBROSS TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
-#EXTINF:4.22602,ZEE MOVIE
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:1,ZEE TV
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:1,ZEE CAFE HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:0.949367,&PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:1.1494,&FLIX HD
-#EXTINF:4.71467,BIZNET VIDEO
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:1.51467,BIZNET ADVENTURE
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:1.77067,BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:1.01167,MOLATV
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
-#EXTINF:1.73707,BS NEWS
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
-#EXTINF:2.664,GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:3.35732,MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:1.99466,INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:1.13067,FOX SPORT
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:1.00267,FOX SPORT
@@ -820,6 +509,331 @@ https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:1,ANIMAL PLANET
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+
+
+EXTM3U
+#EXTINF:-1,group-title="lokal,belum ada Title
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1,bomp219
+https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+#EXTINF:-1,bomp251
+http://45.126.83.51/qwr9ew/s/s28/02.m3u8
+#EXTINF:-1,bomp252
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1,bomp116
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,bomp253
+http://45.126.83.51/qwr9ew/s/s27/02.m3u8
+#EXTINF:-1,bomp254
+http://210.210.155.35/qwr9ew/s/s27/02.m3u8
+#EXTINF:-1,bomp262
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1,bomp265
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,bomp266
+http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+#EXTINF:-1,bomp279
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1,bomp280
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1,bomp291
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1,bomp336
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1,bomp346
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,bomp352
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1,bomp354
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1,bomp370
+https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/chunklist.m3u8
+#EXTINF:-1,bomp378
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+#EXTINF:-1,bomp379
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1,bomp382
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1,bomp396
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1,bomp398
+http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
+#EXTINF:-1,bomp401
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1,bomp411
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1,Bcomp_2
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1,Bcomp_3
+https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bcomp_4
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+#EXTINF:-1,Bcomp_5
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1,Bcomp_6
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1,Bcomp_8
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1,Bcomp_9
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1,Bcomp_10
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU
+#EXTINF:-1,Bcomp_11
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1,Bcomp_12
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1,Bcomp_13
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1,Bcomp_15
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1,Bcomp_17
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1,Bcomp_18
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1,Bcomp_19
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1,Bcomp_20
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU
+#EXTINF:-1,Bcomp_21
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1,Bcomp_22
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1,Bcomp_23
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1,Bcomp_24
+http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
+#EXTINF:-1,Bcomp_25
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:-1,Bcomp_26
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1,Bcomp_27
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1,Bcomp_28
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1,Bcomp_29
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1,Bcomp_30
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1,Bcomp_31
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1,Bcomp_32
+https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1,Bcomp_33
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1,Bcomp_34
+http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1,Bcomp_35
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+#EXTINF:-1,Bcomp_36
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+#EXTINF:-1,Bcomp_37
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1,Bcomp_39
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1,Bcomp_41
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1,Bcomp_42
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1,Bcomp_43
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1,Bcomp_46
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1,Bcomp_47
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1,Bcomp_48
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1,Bcomp_49
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1,Bcomp_50
+http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:-1,Bcomp_52
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLIT2Ht1xm2yYISYtXfhuLn2DunbaeGqSfAX-PO4UoLzkqPCUCYLGRIT-okRD8_IOQ08&usqp=CAU
+#EXTINF:-1,Bcomp_53
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bcomp_55
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1,Bcomp_56
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1,Bcomp_61
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyypctS8Wq9RE_dDV593ifumACjSlYEeDXlTWQ3ZIQS5NTJ0&s
+#EXTINF:-1,Bcomp_63
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+#EXTINF:-1,Bcomp_64
+https://yt3.ggpht.com/ytc/AAUvwniERUYttKoqkZ8ET52eGHldoKF6T1Pket2A0bCr=s900-c-k-c0x00ffffff-no-rj
+#EXTINF:-1,Bcomp_66
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1,Bcomp_67
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bcomp_68
+http://185.180.221.194:8278/streams/d/Ci/playlist.m3u8
+#EXTINF:-1,Bcomp_70
+http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
+#EXTINF:-1,Bcomp_71
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1,Bcomp_72
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1,Bcomp_73
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1,Bcomp_74
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1,Bcomp_75
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
+#EXTINF:-1,Bcomp_79
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1,Bcomp_80
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDvWad4egvRg8Ned0wM36Ewb0syq_8qEqg&usqp=CAU
+#EXTINF:-1,Bcomp_82
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+#EXTINF:-1,Bcomp_83
+http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
+#EXTINF:-1,Bcomp_85
+http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1,Bcomp_86
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:-1,Bcomp_87
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1,Bcomp_88
+http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
+#EXTINF:-1,Bcomp_90
+https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
+#EXTINF:-1,Bcomp_91
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1,Bcomp_92
+http://121.130.210.101:9981/stream/channelid/637185705
+#EXTINF:-1,Bcomp_93
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1,Bcomp_94
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU
+#EXTINF:-1,Bcomp_95
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+#EXTINF:-1,Bcomp_96
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1,Bcomp_97
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
+#EXTINF:-1,Bcomp_98
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1,Bcomp_99
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+
+#EXTINF:-1,Bcomp_104
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1,Bcomp_198
+https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778
+#EXTINF:-1,Bcomp_162
+https://food.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bcomp_163
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofood52/CDN/playlist.m3u8
+#EXTINF:-1,Bcomp_164
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,Bcomp_186
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Bcomp_214
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1,Bcomp_215
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby
+#EXTINF:-1,Bcomp_216
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1,Bcomp_217
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
+#EXTINF:-1,Bcomp_218
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
+#EXTINF:-1,Bcomp_219
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1,Bcomp_220
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1,Bcomp_221
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1,Bcomp_222
+http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81003
+#EXTINF:-1,Bcomp_224
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1,Bcomp_225
+http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8
+#EXTINF:-1,Bcomp_227
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1,Bcomp_228
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1,Bcomp_229
+https://rtmp.info/canal38/envivo/playlist.m3u8
+#EXTINF:-1,Bcomp_230
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_231
+http://astro3.rastream.com/melody
+#EXTINF:-1,Bcomp_232
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
+#EXTINF:-1,Bcomp_233
+https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/playlist.m3u8
+#EXTINF:-1,Bcomp_240
+http://puui.qpic.cn/qqvideo_ori/0/t3224drv0jc_496_280/0
+#EXTINF:-1,Bcomp_243
+https://mediaprima.rastream.com/myfm.android
+#EXTINF:-1,Bcomp_244
+http://astro2.rastream.com/mix
+#EXTINF:-1,Bcomp_245
+http://cp.usa7.fastcast4u.com:6192/;
+#EXTINF:-1,Bcomp_246
+http://usa7.fastcast4u.com:6192/stream
+#EXTINF:-1,Bcomp_248
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_249
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_250
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_251
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_252
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_253
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_254
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_255
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_256
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_257
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_258
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_259
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_260
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_261
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_262
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_263
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_264
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_265
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_266
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_267
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_268
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_269
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1,Bcomp_270
+https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA
+#EXTINF:-1,Bcomp_271
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+
+
+
 
 
 ================================================================================================================================
