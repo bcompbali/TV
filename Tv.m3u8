@@ -395,37 +395,34 @@ https://food.vizio.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofood52/CDN/playlist.m3u8
 #EXTINF:-1,Bcomp_164
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,Bcomp_165
+#EXTINF:-1,CGTN TV
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,Bcomp_166
+#EXTINF:-1,CGTV Arab
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1,Bcomp_167
+#EXTINF:-1,CGTN france
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1,Bcomp_168
+#EXTINF:-1,CGTV Rusia
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,Bcomp_169
+#EXTINF:-1,CGTV Spanyol
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,Bcomp_170
+#EXTINF:-1,CGTV Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1,Bcomp_172
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N-4FlOXn2kVknNbLyeSm_YHTqA66hSuecH3K4rU_r-X-yXMZ-cvJNtBIZDmXrPrD5NI&usqp=CAU
-#EXTINF:-1,Bcomp_174
-http://190.2.133.47:8278/streams/d/Jade/playlist.m3u8
-#EXTINF:-1,Bcomp_175
+
+#EXTINF:-1,TVB
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1,Bcomp_178
+#EXTINF:-1,TDM 1
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1,Bcomp_179
+#EXTINF:-1,TDM 2
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1,Bcomp_184
+#EXTINF:-1,Phoenix News
 http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
 #EXTINF:-1,Bcomp_186
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1,Bcomp_188
+#EXTINF:-1,Boomerang
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1,Bcomp_189
+#EXTINF:-1,CARTOON network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1,Bcomp_191
+#EXTINF:-1,ANIMAX
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1,Bcomp_192
 http://rtmp.one.by:1300
