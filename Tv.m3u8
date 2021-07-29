@@ -171,7 +171,7 @@ https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1,bomp291
 http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1,bomp296
+#EXTINF:-1,NHK WORLD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,bomp336
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -357,46 +357,38 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1,thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-#EXTINF:-1,Bcomp_103
+#EXTINF:-1,CELESTIAL2
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1,Bcomp_104
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1,Bcomp_105
+#EXTINF:-1,CELESTIAL
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1,Bcomp_107
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGalk8ZMBcQ-ZDTlh0xNWqBb430tBKd2MUCc6fTuS5c95ypK95
-#EXTINF:-1,Bcomp_108
+#EXTINF:-1,GEM TV
 http://210.210.155.35/uq2663/h/h19/index.m3u8
-#EXTINF:-1,Bcomp_111
+#EXTINF:-1,AXN
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1,Bcomp_126
+#EXTINF:-1,CCTV 4
 http://185.180.221.194:8278/streams/d/Cctv4/playlist.m3u8
-#EXTINF:-1,Bcomp_130
+#EXTINF:-1,CCTV 5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1,Bcomp_138
+#EXTINF:-1,CCTV 17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1,Bcomp_139
+#EXTINF:-1,CCTV 17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1,Bcomp_140
-http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
-#EXTINF:-1,Bcomp_141
+#EXTINF:-1,BBC earth
 http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
-#EXTINF:-1,Bcomp_142
+#EXTINF:-1,BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,Bcomp_143
+#EXTINF:-1,CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1,Bcomp_149
+#EXTINF:-1,ASTRO SUPERSPORT 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,Bcomp_152
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bcomp_155
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU
-#EXTINF:-1,Bcomp_158
+
+#EXTINF:-1,AFN
 http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-#EXTINF:-1,Bcomp_160
+#EXTINF:-1,FOOD NETWORK
 https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/food.network.usa.eastern.us.m3u8
-#EXTINF:-1,Bcomp_161
-https://guide-images.cdn.ifixit.com/igi/XkKVydRMbCZHrFKr.standard
+
 #EXTINF:-1,Bcomp_162
 https://food.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Bcomp_163
