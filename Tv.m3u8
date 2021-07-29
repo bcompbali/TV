@@ -418,47 +418,43 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
 #EXTINF:-1,Bcomp_186
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1,BOOMERANG
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1,CARTOON network
+#EXTINF:-1,CARTOON NETWORK
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,ANIMAX
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1,Bcomp_192
+#EXTINF:-1,ONE
 http://rtmp.one.by:1300
-#EXTINF:-1,Bcomp_193
+#EXTINF:-1,NASA-NTV1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1,Bcomp_195
+#EXTINF:-1,DISCOVERY
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
-#EXTINF:-1,Bcomp_196
+#EXTINF:-1,ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,Bcomp_197
-http://89.216.39.29:8001/
 #EXTINF:-1,Bcomp_198
 https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778
-#EXTINF:-1,Bcomp_199
+#EXTINF:-1,HISTORY
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1,Bcomp_200
+#EXTINF:-1,DA VINCI
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,Bcomp_201
+#EXTINF:-1,HISTORY
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
-#EXTINF:-1,Bcomp_203
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-#EXTINF:-1,Bcomp_204
+#EXTINF:-1,NATIONAL GEOGRAPHIC:WILD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1,Bcomp_205
+#EXTINF:-1,NATIONAL GEOGRAPHIC:PEOPLE
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-#EXTINF:-1,Bcomp_206
+#EXTINF:-1,LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,Bcomp_208
+#EXTINF:-1,FRANCE24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1,Bcomp_209
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFKYLyAOShVN-v_MANZPinYsLXOXSU-VRNQ&usqp=CAU
-#EXTINF:-1,Bcomp_210
+#EXTINF:-1,TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1,Bcomp_211
+#EXTINF:-1,RT NEWS
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1,Bcomp_212
+#EXTINF:-1,TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Bcomp_214
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
