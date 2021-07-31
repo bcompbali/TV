@@ -208,6 +208,8 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1,TDM 2
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1,Creation Tv
+https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 #EXTINF:-1,Phoenix News
 http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
 #EXTINF:-1,BOOMERANG
@@ -515,21 +517,18 @@ https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 EXTM3U
 #EXTINF:-1,group-title="belum ada Title",bcomp218
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1,bomp219
-https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-#EXTINF:-1,bomp251
+
+#EXTINF:-1,Makkah Tv
 http://45.126.83.51/qwr9ew/s/s28/02.m3u8
-#EXTINF:-1,bomp252
+#EXTINF:-1,Makkah Tv
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1,bomp116
+#EXTINF:-1,EBS Tv
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,bomp253
 http://45.126.83.51/qwr9ew/s/s27/02.m3u8
 #EXTINF:-1,bomp254
 http://210.210.155.35/qwr9ew/s/s27/02.m3u8
-#EXTINF:-1,bomp262
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1,bomp265
+#EXTINF:-1,CNA Tv
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,bomp266
 http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
