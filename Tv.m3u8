@@ -278,7 +278,6 @@ https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/food.n
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:1.49642,WARNERBROSS TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-
 #EXTINF:1.13067,FOX SPORT
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:1.00267,FOX SPORT
@@ -511,46 +510,39 @@ https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:1,ANIMAL PLANET
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-================================================================================================================================
-
-
-EXTM3U
-#EXTINF:-1,group-title="belum ada Title",bcomp218
+#EXTINF:-1,8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-
 #EXTINF:-1,Makkah Tv
 http://45.126.83.51/qwr9ew/s/s28/02.m3u8
 #EXTINF:-1,Makkah Tv
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1,EBS Tv
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,bomp253
+#EXTINF:-1,Makkah Tv
 http://45.126.83.51/qwr9ew/s/s27/02.m3u8
-#EXTINF:-1,bomp254
-http://210.210.155.35/qwr9ew/s/s27/02.m3u8
 #EXTINF:-1,CNA Tv
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,bomp266
-http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
-#EXTINF:-1,bomp279
+#EXTINF:-1,FTV-TV
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1,bomp280
-http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1,bomp291
+#EXTINF:-1,TV-BS
 http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1,bomp336
+#EXTINF:-1,Wix Tv
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1,bomp346
+#EXTINF:-1,U-Channel
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1,bomp352
+#EXTINF:-1,Hwazan Tv
 http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1,bomp354
+#EXTINF:-1,AAT-Tv
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1,bomp370
+#EXTINF:-1,Goodie-Tv
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/chunklist.m3u8
-#EXTINF:-1,bomp378
+#EXTINF:-1,Mcot-Tv
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1,bomp379
+================================================================================================================================
+
+
+EXTM3U
+#EXTINF:-1,group-title="belum ada Title", bomp379
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 #EXTINF:-1,bomp382
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
@@ -714,7 +706,6 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1,Bcomp_99
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
 #EXTINF:-1,Bcomp_104
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1,Bcomp_198
