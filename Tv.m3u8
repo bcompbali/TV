@@ -125,7 +125,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
 
 
-EXTM3U
+#EXTM3U
 #EXTINF:-1,group-title="luar negri",SHOP CHANNEL 
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1,CGNTV
