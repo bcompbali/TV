@@ -673,7 +673,10 @@ http://v1.viptvclub.com:25443/7777777777/7777777777/124073
 http://v1.viptvclub.com:25443/7777777777/7777777777/124072
 #EXTINF:-1,|.AR.| BEIN SPORTS 1 MAX FHD 4K (EURO 2021)
 http://v1.viptvclub.com:25443/7777777777/7777777777/124074
-#EXTINF:-1,|FR| TF1
+
+=============================================================================================
+
+#EXTINF:-1,group-title="FRANCE",TF1
 http://v1.viptvclub.com:25443/7777777777/7777777777/9211
 #EXTINF:-1,|FR| TF1 HD
 http://v1.viptvclub.com:25443/7777777777/7777777777/15121
