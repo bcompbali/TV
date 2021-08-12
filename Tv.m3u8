@@ -2171,7 +2171,11 @@ http://v1.viptvclub.com:25443/7777777777/7777777777/48145
 http://v1.viptvclub.com:25443/7777777777/7777777777/48140
 #EXTINF:-1,|.BE.| LN24 FHD
 http://v1.viptvclub.com:25443/7777777777/7777777777/119322
-#EXTINF:-1,---??| SWITZERLAND |??---
+
+====================================================================
+
+#EXTINF
+#EXTINF:-1,group-title="SWITZERLAND",
 http://v1.viptvclub.com:25443/7777777777/7777777777/22490
 #EXTINF:-1,|.SW.| TELECLUB PRIME
 http://v1.viptvclub.com:25443/7777777777/7777777777/20631
