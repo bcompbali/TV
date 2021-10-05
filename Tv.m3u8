@@ -9,28 +9,12 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1,CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1,JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1,JEKTV JAMBI
-http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
-#EXTINF:-1,KAWANUA TV
-http://122.248.43.138:1935/ch18/myStream/chunklist_w588500490.m3u8
-EXTINF:-1 tv-name="MNCTV" tvg-logo="https://i.postimg.cc/nhgL8yCX/Mnctv.png", MNCTV
-http://gpc.my.id/vidio/mnc.m3u8
-EXTINF:-1 tvg-logo="https://i.postimg.cc/mDth17h5/RCTI.png", RCTI
-http://gpc.my.id/vidio/rcti.m3u8
-#EXTINF:-1,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1650266961_b1492000_sleng.m3u8
-#EXTINF:-1,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:4.71467,BIZNET TV
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:1.51467,BIZNET ADEVNTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:1.77067,BIZNET KIDZ HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1,RADAR TV
-http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1,RRI NET YOGYAKARTA
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1,REFORMED
@@ -45,13 +29,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:4.22602,ZEE MOVIE
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:1,ZEE TV
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:1,ZEE CAFE HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:0.949367,&PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:1.1494,&FLIX HD
 #EXTINF:4.71467,BIZNET VIDEO
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:1.51467,BIZNET ADVENTURE
