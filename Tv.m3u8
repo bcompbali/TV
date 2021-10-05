@@ -822,8 +822,14 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 EXTM3U
 #EXTINF:-1,group-title="film",Aladin
 http://144.217.177.36:4742/Movies/Aladdin.2019.720p.HDRip.900MB.x264-GalaxyRG%5bTGx%5d/Aladdin.2019.720p.HDRip.900MB.x264-GalaxyRG.mkv
-#EXTINF:-1,group-title="film anak",Finding Nemo
-http://144.217.177.36:4742/Movies/080420%20Movies/Finding.Nemo.2003.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,group-title="film anak",Madagascar
+http://144.217.177.36:4742/Movies/081820/Madagascar.2005.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,group-title="film anak",Madagascar 3 Europes Most Wanted
+http://144.217.177.36:4742/Movies/081820/Madagascar.3.Europes.Most.Wanted.2012.720p.BRrip.x264.YIFY.mp4
+#EXTINF:-1,group-title="film anak",Madagascar Escape 2 Africa
+http://144.217.177.36:4742/Movies/081820/Madagascar.Escape.2.Africa.2008.720p.BRrip.x264.YIFY.mp4
+#EXTINF:-1,group-title="film anak",penguins of Madagascar
+http://144.217.177.36:4742/Movies/081820/Penguins.of.Madagascar.2014.720p.BluRay.x264.YIFY.mp4
 #EXTINF:-1,group-title="film anak",How to Train Your Dragon
 http://144.217.177.36:4742/Movies/080420%20Movies/How%20to%20Train%20Your%20Dragon%202%202014%20720p%20BluRay%20x264%20AAC%20-%20Ozlem.mp4
 #EXTINF:-1,group-title="film anak",Bolt
