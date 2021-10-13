@@ -472,6 +472,13 @@ https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/chunklist.m3u8
 #EXTINF:-1,Mcot-Tv
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 ================================================================================================================================
+EXTM3U
+#EXTINF:-1,group-title="Malaysia"
+#EXTINF:-1,Astro CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1,Astro Ria
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
 
 EXTM3U
 #EXTINF:-1,group-title="Thailand"
@@ -479,15 +486,8 @@ EXTM3U
 http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
 #EXTINF:-1,PBS
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
+#EXTINF:-1,white Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
 
 
@@ -499,30 +499,14 @@ http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 #EXTINF:-1,32-Tv
 https://live.thairath.co.th/trtv2/playlist.m3u8
-
-
-#EXTINF:-1,bomp411
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1,Bcomp_2
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1,Bcomp_3
-https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bcomp_4
-http://185.180.221.194:8278/streams/d/One/playlist.m3u8
-#EXTINF:-1,Bcomp_5
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1,Bcomp_6
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1,Bcomp_8
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1,Bcomp_9
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1,Bcomp_10
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU
-#EXTINF:-1,Bcomp_11
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1,Bcomp_12
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+
 #EXTINF:-1,Bcomp_13
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1,Bcomp_15
