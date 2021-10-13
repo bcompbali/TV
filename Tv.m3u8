@@ -478,63 +478,16 @@ EXTM3U
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1,Astro Ria
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-
-
-EXTM3U
-#EXTINF:-1,group-title="Thailand"
-#EXTINF:-1,Parliament
-http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
-#EXTINF:-1,PBS
-http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1,white Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-
-
-
-EXTM3U
-#EXTINF:-1,group-title="belum ada Title", M-Chanel
-http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:-1,NBT-Tv
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1,32-Tv
-https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1,Bcomp_2
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1,Bcomp_8
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1,Bcomp_10
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU
-
-
-#EXTINF:-1,Bcomp_13
+#EXTINF:-1,Astro
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1,Bcomp_15
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1,Bcomp_17
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1,Bcomp_18
+#EXTINF:-1,Astro 1
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1,Bcomp_19
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1,Bcomp_20
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU
-#EXTINF:-1,Bcomp_21
+#EXTINF:-1,Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1,Bcomp_22
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1,Bcomp_23
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1,Bcomp_24
-http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
-#EXTINF:-1,Bcomp_25
-http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-#EXTINF:-1,Bcomp_26
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-#EXTINF:-1,Bcomp_27
+#EXTINF:-1,Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1,Bcomp_28
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+
 #EXTINF:-1,Bcomp_29
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1,Bcomp_30
@@ -747,6 +700,42 @@ https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOec
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 ================================================================================================================================
 
+
+EXTM3U
+#EXTINF:-1,group-title="Thailand"
+#EXTINF:-1,Parliament
+http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
+#EXTINF:-1,PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1,white Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+
+
+
+EXTM3U
+#EXTINF:-1,group-title="belum ada Title", M-Chanel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1,NBT-Tv
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1,32-Tv
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1,Bcomp_2
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1,Bcomp_8
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1,Bcomp_10
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU
+
+
+
+#EXTINF:-1,Bcomp_20
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU
+
+
+
+#EXTINF:-1,Bcomp_28
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 EXTM3U
 #EXTINF:-1,group-title="Film Anak",Aladin
 http://144.217.177.36:4742/Movies/Aladdin.2019.720p.HDRip.900MB.x264-GalaxyRG%5bTGx%5d/Aladdin.2019.720p.HDRip.900MB.x264-GalaxyRG.mkv
