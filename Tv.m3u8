@@ -463,7 +463,10 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/chunklist.m3u8
 #EXTINF:-1,Mcot-Tv
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+
+
 ================================================================================================================================
+
 EXTM3U
 #EXTINF:-1,group-title="Malaysia"
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
@@ -710,8 +713,7 @@ http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 #EXTINF:-1,white Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
-
-
+===========================================================================================================================================
 
 EXTM3U
 #EXTINF:-1,group-title="belum ada Title", M-Chanel
@@ -726,16 +728,12 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1,Bcomp_10
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU
-
-
-
 #EXTINF:-1,Bcomp_20
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU
-
-
-
 #EXTINF:-1,Bcomp_28
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+======================================================================================================================================
 EXTM3U
 #EXTINF:-1,group-title="Film Anak",Aladin
 http://144.217.177.36:4742/Movies/Aladdin.2019.720p.HDRip.900MB.x264-GalaxyRG%5bTGx%5d/Aladdin.2019.720p.HDRip.900MB.x264-GalaxyRG.mkv
@@ -882,17 +880,7 @@ http://124.29.199.194/data1/kidsmovies/V/Vivo.2021.HDRip.Dual.mkv
 #EXTINF:-1,
 
 
-
-
-
-
-
-
-
-
-
-
-
+===========================================================================================================================================
 
 
 EXTM3U
