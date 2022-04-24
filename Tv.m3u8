@@ -17,10 +17,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1,REFORMED
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1,SAKTI TV
-http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
-#EXTINF:-1,TATV
-http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,TRANS 7
@@ -105,8 +101,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTM3U
 #EXTINF:-1,group-title="luar negri",SHOP CHANNEL 
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1,CGNTV
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1,japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1,ARIRANG KOREA
@@ -124,21 +118,15 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1,ONE KOREA
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 #EXTINF:-1,GEM JAPAN
-http://45.126.83.51/uq2663/h/h19/index.m3u8
-#EXTINF:-1,YTN KOREA
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1,YTN KOREA
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1,CELESTIAL MOVIES
-http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1,HONGKONG 1
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1, HONGKONG 2
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1,HONGKONG 3
 http://stream.isuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1,HONGKONG 4
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,BSTV HONGKONG
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1,TDM Maccau 1
@@ -153,10 +141,6 @@ http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1,NHK WORLD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1,thrill
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1,CELESTIAL2
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1,CGTN TV
