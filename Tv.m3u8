@@ -141,8 +141,6 @@ http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1,NHK WORLD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,CELESTIAL2
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1,CGTN TV
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,CGTV Arab
@@ -1017,7 +1015,8 @@ http://162.12.215.254/Data/Movies/China/2020/Make%20Me%20Shudder%20%282013%29%20
 http://162.12.215.254/Data/Movies/China/2020/Lost%20in%20Russia%202020%20China%20Movie%20400MB%20HDRip/Lost%20in%20Russia%202020%20China%20Movie%20400MB%20HDRip.mkv
 
 
-#EXTINF:-1,
+#EXTINF:-1,test link
+http://103.152.18.18/Data/English/hollywood/2005/Mr.%20%26%20Mrs.%20Smith%20%282005%29/Mr.%20%26%20Mrs.%20Smith%20%282005%29.mkv
 #EXTINF:-1,
 
 #EXTINF:-1,
