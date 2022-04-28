@@ -1446,3 +1446,12 @@ http://162.12.215.254/Data/Movies/Hollywood/2019/A%20Good%20Woman%20Is%20Hard%20
 #EXTINF:-1,http://162.12.215.254/Data/Movies/Hollywood/2019/Yesterday%20(2019)/Yesterday.mkv
 #EXTINF:-1,http://162.12.215.254/Data/Movies/Hollywood/2019/Zombieland%20Double%20Tap%202019%20Eng%20BRRip%20720p/Zombieland%20Double%20Tap%202019%20Eng%20BRRip%20720p.mkv
 #EXTINF:-1,http://162.12.215.254/Data/Movies/Hollywood/2019/Seeing%20Evil%20(2019)/The%20Diggers%20(2019)/The.Diggers.2019.1080p.WEBRip.x264-RARBG.mp4
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,group-title="Hindi Dual Audio"
+http://162.12.215.254/Data/Movies/Dual%20Audio/Old/Titanic%201997%20Dual%20Audio%20720p%20BRRip%201.8Gb%20x264/Titanic%201997%20Dual%20Audio%20720p%20BRRip%201.8Gb%20x264.mkv
