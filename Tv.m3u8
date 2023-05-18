@@ -1,22 +1,14 @@
 #EXTM3U
 #EXTINF:-1,group-title="lokal",
 
-#EXTINF:-1,BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1,CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1,CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:4.71467,BIZNET TV
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:1.51467,BIZNET ADEVNTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:1.77067,BIZNET KIDZ HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1,RRI NET YOGYAKARTA
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1,REFORMED
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,TRANS 7
@@ -25,14 +17,8 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:4.71467,BIZNET VIDEO
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:1.51467,BIZNET ADVENTURE
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:1.77067,BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:1.01167,MOLATV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
-#EXTINF:1.73707,BS NEWS
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
 #EXTINF:2.664,GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:3.35732,MNCTV
@@ -43,14 +29,6 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-m
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1,TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-#EXTINF:-1,TVRI KALBAR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
-#EXTINF:-1,TVRI KALTENG
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:-1,TVRI AMBON
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
-#EXTINF:-1,TVRI PAPUA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 #EXTINF:-1,TVRI GORONTALO
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(03)/index.m3u8
 #EXTINF:-1,TVRI SULSEL
@@ -139,8 +117,6 @@ http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1,TDM Maccau 4
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1,NHK WORLD
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,CGTN TV
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,CGTV Arab
@@ -153,102 +129,32 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,CGTV Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1,TVB
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1,TDM 1
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1,TDM 2
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1,Creation Tv
-https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 #EXTINF:-1,Phoenix News
 http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
-#EXTINF:-1,BOOMERANG
-http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1,ANIMAX
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1,ONE
 http://rtmp.one.by:1300
 #EXTINF:-1,NASA-NTV1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,HISTORY
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC:WILD
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1,LOVE NATURE
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,FRANCE24
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1,TV5 MONDE
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,CELESTIAL
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1,GEM TV
-http://210.210.155.35/uq2663/h/h19/index.m3u8
-#EXTINF:-1,CCTV 17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1,CCTV 17
-http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1,BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1,FOOD NETWORK
-https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/food.network.usa.eastern.us.m3u8
-#EXTINF:1,HBO 2
-http://51.79.82.231:8080/US_HBO_2/video.m3u8
-#EXTINF:1,HBO SIGNATURE
-http://51.79.82.231:8080/US_HBO_SIGNATURE/video.m3u8
-#EXTINF:1,HBO FAMILY
-http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
-#EXTINF:1.93867,AXN
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:1.33937,CINEMA WORLD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
-#EXTINF:0.813667,FOX MOVIE
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:1,TELEOSMEDOA
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:1,TULIXTV
-https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
-#EXTINF:2.47467,WOW CINEMA
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:1,WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:1,REDBOX CDN
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
 #EXTINF:1,REDBOX COMEDY
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
-#EXTINF:3.003,GEM BOLLYWOOD
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-#EXTINF:3.9039,GEM CLASIC
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
-#EXTINF:2.7027,GEM DRAMA
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
-#EXTINF:5.07173,GEM KIDS
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:2.53587,GEM SERIES
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
-#EXTINF:5.98867,GEM USA
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 #EXTINF:4.22602,KKTV
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:4.22602,KKTV
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:1.1494,&FLIX
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:1,&PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:2.77333,ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
-#EXTINF:1.18333,WAU TV
-http://nn2.joj.sk/hls/wau-540.m3u8
 #EXTINF:2.53867,DUBAI ONE TV
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:1.91233,ASTRO HD
